@@ -1,0 +1,569 @@
+246-Trinitrotoluene/xmlformat,NA,NA,NA,1,1,2017-09-13 14:33:01 UTC,2017-09-13 14:51:49 UTC,F,F,F,F,F,F,F,F,T,F,F,F,20,20,0,NA,NA,NA
+4orecast/4orecast-Library,NA,NA,NA,0,1,2017-04-20 00:25:06 UTC,2017-04-20 01:37:38 UTC,F,F,F,F,F,F,F,F,T,F,F,F,20,20,0,NA,NA,NA
+5aab/randoop-maven-plugin,F,1,Maven,3,1,2018-04-30 06:15:06 UTC,2018-04-30 15:58:12 UTC,F,F,F,F,T,F,F,F,T,F,F,F,12,12,0,dependencies,DependencyResolution,NA
+5hawnknight/hpa-design-example,T,0,Gradle,0,1,2015-05-30 02:52:29 UTC,2015-10-22 18:09:16 UTC,F,F,T,F,T,F,F,F,T,F,F,F,70,136,66,NA,NA,NA
+9527crazy/CQCET__Easyschool,NA,NA,NA,0,2,2019-09-19 09:17:09 UTC,2020-07-02 00:39:34 UTC,F,F,F,F,T,F,F,F,T,F,F,F,55,55,0,NA,NA,NA
+AbhilashG97/WatermelonCupcake,NA,NA,NA,0,3,2017-10-17 12:08:13 UTC,2019-07-24 00:16:38 UTC,F,F,F,F,F,F,F,F,T,F,F,F,35,35,0,NA,NA,NA
+AdrienVR/PizzaService,NA,NA,NA,0,1,2014-11-25 15:26:20 UTC,2014-12-16 16:56:56 UTC,F,F,F,F,T,F,F,F,T,F,F,F,503,503,0,NA,NA,NA
+AgileBitFlipper/triominos,F,1,Maven,4,2,2017-12-05 18:25:37 UTC,2020-06-04 20:45:47 UTC,F,F,F,F,T,F,F,T,T,F,F,F,82,204,122,uncategorized,MojoFailure:maven-surefire-plugin,NA
+Alex-zs/landloards,T,0,Maven,0,1,2019-02-16 16:14:02 UTC,2019-02-16 16:44:07 UTC,F,F,F,F,T,F,F,F,T,F,F,F,45,100,55,NA,NA,NA
+AlexRomanov98/Logging,NA,NA,NA,1,1,2018-03-09 18:35:36 UTC,2018-03-13 14:40:24 UTC,F,F,F,F,F,F,F,F,T,F,F,F,20,20,0,NA,NA,NA
+Alicyu1024/microservice-springcloud,NA,NA,NA,1,3,2019-09-10 03:10:27 UTC,2020-07-02 00:34:24 UTC,F,F,F,F,T,F,F,F,T,F,F,F,652,652,0,NA,NA,NA
+Alontrle/Xilla-Backups,NA,NA,NA,1,1,2020-04-20 00:36:17 UTC,2020-04-20 17:55:54 UTC,F,F,T,F,F,F,F,F,T,F,F,F,349,349,0,NA,NA,NA
+Anarchist-xxxx/PandoLiA,NA,NA,NA,1,1,2018-12-26 11:24:40 UTC,2019-01-17 17:44:01 UTC,F,F,F,F,F,F,F,F,T,F,F,F,18,18,0,NA,NA,NA
+AndreamApp/homeward,NA,NA,NA,2,1,2018-07-03 06:24:01 UTC,2018-07-03 06:24:15 UTC,F,F,F,F,F,F,F,F,T,F,F,F,74,74,0,NA,NA,NA
+AndroidGears/Plugin,NA,NA,NA,51,6,2014-03-31 16:15:40 UTC,2017-04-17 02:02:47 UTC,F,F,F,F,F,F,F,F,T,F,F,F,128,128,0,NA,NA,NA
+AnishEllore/Quiz_generator,NA,NA,NA,0,1,2018-01-21 11:12:42 UTC,2018-02-13 13:30:42 UTC,F,F,F,F,F,F,F,F,T,F,F,F,40,40,0,NA,NA,NA
+AntonioNtV/provasLP2,NA,NA,NA,1,1,2019-06-10 22:28:53 UTC,2019-11-30 19:05:22 UTC,F,F,F,F,F,F,F,F,T,F,F,F,88,88,0,NA,NA,NA
+Apicurio/apicurio-registry,T,0,Maven,58,40,2019-07-16 12:44:20 UTC,2020-07-21 16:29:51 UTC,F,F,F,T,T,F,F,F,T,F,F,T,1258,75904,74646,NA,NA,NA
+AppengineRo/wkhtmltopdf,F,1,Maven,2,1,2014-05-04 09:55:40 UTC,2015-10-02 08:57:21 UTC,F,F,F,F,T,F,F,F,T,F,F,F,329,329,0,dependencies,PluginResolution,NA
+AuthMe/ConfigMe,T,0,Maven,15,4,2016-07-08 13:30:30 UTC,2020-07-20 05:55:19 UTC,F,F,F,F,T,F,F,F,T,F,T,F,265,582,317,NA,NA,NA
+Axway-syncplicity/Syncplicity-Java-CLI-Sample,NA,NA,NA,0,1,2018-06-13 13:55:29 UTC,2020-02-27 06:35:57 UTC,F,F,F,F,F,F,F,T,T,F,F,F,133,133,0,NA,NA,NA
+AzortisCode/ProtocolVanish,T,0,Maven,6,3,2019-07-11 22:28:11 UTC,2020-07-01 21:48:05 UTC,F,F,F,F,T,F,F,F,T,F,F,F,112,244,132,NA,NA,NA
+Azure-Samples/azure-cosmosdb-bulkingestion,T,0,Maven,5,3,2019-07-09 18:28:26 UTC,2020-06-16 00:13:59 UTC,F,F,F,F,T,F,F,T,T,F,F,F,87,127,44,NA,NA,NA
+BSI-Business-Systems-Integration-AG/helloscout,NA,NA,NA,2,2,2017-10-06 11:28:15 UTC,2020-03-13 17:11:12 UTC,F,F,F,F,T,F,F,T,T,F,F,F,368,368,0,NA,NA,NA
+Bathlamos/Sudoku-Solver,NA,NA,NA,0,1,2015-03-07 01:55:40 UTC,2015-04-28 20:38:22 UTC,F,F,F,F,F,F,F,F,T,F,F,F,24,24,0,NA,NA,NA
+BattleShipers/BattleShips,NA,NA,NA,1,2,2019-01-22 17:30:20 UTC,2019-01-26 17:59:05 UTC,F,F,F,F,F,F,F,F,T,F,F,F,13,13,0,NA,NA,NA
+BharathUpasi/SparkJavaStreaming,T,0,Maven,0,1,2018-07-25 06:46:06 UTC,2018-07-25 08:49:09 UTC,F,F,F,F,T,F,F,F,T,F,F,F,34,89,55,NA,NA,NA
+BiosemanticsDotOrg/GeneDiseasePaper,NA,NA,NA,4,1,2015-07-07 08:37:12 UTC,2016-11-24 14:10:58 UTC,T,F,F,F,F,F,F,T,T,T,F,F,1162,1162,0,NA,NA,NA
+BlWasp/multi-user_Dungeon,NA,NA,NA,2,2,2018-12-04 13:46:40 UTC,2019-03-28 13:04:56 UTC,F,F,F,F,F,F,F,F,T,F,F,F,41,41,0,NA,NA,NA
+Blank-mind/scaffold,T,0,Maven,0,1,2018-03-03 01:34:27 UTC,2018-03-26 14:40:15 UTC,F,F,F,F,T,F,F,F,T,F,F,F,107,140,33,NA,NA,NA
+BloodShura/VenusScript,F,1,Maven,13,1,2016-05-09 00:06:01 UTC,2019-06-04 22:18:41 UTC,F,F,F,F,T,F,F,F,T,F,F,F,219,896,677,documentation generation,MojoExecution:maven-javadoc-plugin,NA
+BorderTech/wcomponents,T,0,Maven,18,19,2015-03-10 02:59:08 UTC,2020-07-06 15:16:51 UTC,T,F,F,T,T,F,F,F,T,F,T,T,2455,33691,31236,NA,NA,NA
+CS2103AUG2016-W11-C1/main,F,1,Gradle,2,1,2016-09-16 00:55:16 UTC,2016-11-08 07:10:05 UTC,F,F,T,F,F,F,F,F,T,F,T,F,256,272,16,Java compilation,CompilationFailed,package javafx.collections does not exist
+Cantara/ConfigService-Dashboard,F,1,Maven,1,1,2016-04-19 07:32:35 UTC,2020-07-18 09:49:05 UTC,F,F,F,F,T,F,F,F,T,F,F,F,166,674,508,documentation generation,MojoExecution:maven-javadoc-plugin,NA
+ChronoSky/java_for_testing,NA,NA,NA,0,1,2017-06-06 12:57:31 UTC,2017-08-20 18:26:53 UTC,F,F,T,F,F,F,F,F,T,F,F,F,134,134,0,NA,NA,NA
+ChronosX88/JGUN,T,0,Gradle,6,3,2019-05-03 08:26:07 UTC,2019-10-11 13:29:53 UTC,F,F,T,F,F,F,F,F,T,F,F,F,45,206,161,NA,NA,NA
+Cognifide/IntelliJ-Shortcuts-For-AEM,NA,NA,NA,12,2,2016-09-23 09:54:04 UTC,2017-02-05 14:22:05 UTC,F,F,F,F,F,F,F,F,T,F,F,F,22,22,0,NA,NA,NA
+ConstellationHoundDogs/DBUtil,F,1,Maven,2,1,2013-11-29 20:59:17 UTC,2013-12-03 17:20:48 UTC,F,F,F,F,T,F,F,F,T,F,F,F,129,135,6,Java compilation,MojoFailure:maven-compiler-plugin,Source option 5 is no longer supported. Use 6 or later.
+CoolJWB/VulnerabilityPatcher,F,1,Gradle,2,3,2019-01-12 00:58:24 UTC,2020-07-19 23:54:20 UTC,F,F,T,F,F,F,F,F,T,F,F,F,72,88,16,Java compilation,CompilationFailed,package net.minecraft.server.v1_13_R2 does not exist
+CriptoCosmo/jdbc-apt-util,T,0,Maven,1,1,2019-03-14 10:08:56 UTC,2019-03-15 15:06:42 UTC,F,F,F,F,T,F,F,F,T,F,F,F,18,44,26,NA,NA,NA
+CyberBiology/Genesis,NA,NA,NA,79,28,2018-04-17 12:53:02 UTC,2020-04-19 15:52:48 UTC,F,F,F,F,F,F,F,F,T,F,F,F,14,14,0,NA,NA,NA
+CyberSource/cybersource-flex-samples-java,NA,NA,NA,16,22,2016-04-27 16:31:54 UTC,2020-05-20 03:56:16 UTC,F,F,F,F,T,F,F,F,T,F,F,F,44,44,0,NA,NA,NA
+DV-Anh/EC-Assignments,NA,NA,NA,0,2,2018-07-28 03:45:26 UTC,2018-08-19 13:46:51 UTC,F,F,F,F,F,F,F,F,T,F,F,F,102,102,0,NA,NA,NA
+DanielFGA/Dafny4IntelliJ,F,1,Gradle,0,1,2019-03-27 13:46:10 UTC,2019-07-31 02:07:00 UTC,F,F,T,F,F,F,F,F,T,F,F,F,74,75,1,build files parsing/interpretation,MissingProperty,NA
+DavidNovo/storm-simple,F,1,Maven,0,1,2014-04-14 00:38:43 UTC,2019-04-14 20:02:20 UTC,F,F,F,F,T,F,F,F,T,F,F,F,30,38,10,Java compilation,MojoFailure:maven-compiler-plugin,cannot find symbol
+Devintia/Commons,F,1,Maven,1,1,2016-05-04 17:35:50 UTC,2017-09-01 15:00:38 UTC,F,F,F,F,T,F,F,F,T,F,F,F,87,87,0,dependencies,DependencyResolution,NA
+Dharani-18/Music-library,NA,NA,NA,0,1,2019-05-27 04:01:43 UTC,2019-06-28 08:32:43 UTC,F,F,T,F,F,F,F,F,T,F,F,F,105,105,0,NA,NA,NA
+DianaTdr/AVSimulatorProject,F,1,Maven,0,2,2018-01-17 16:45:05 UTC,2018-04-19 15:52:58 UTC,F,F,F,T,T,F,F,F,T,F,F,F,2539,2568,29,Java compilation,MojoFailure:maven-compiler-plugin,bootstrap class path not set in conjunction with -source 8
+DimovDimo/software-university-softuni,NA,NA,NA,0,1,2018-05-03 08:47:59 UTC,2020-07-02 01:41:29 UTC,F,F,F,F,T,F,F,F,T,F,F,F,7850,7850,0,NA,NA,NA
+Dostoevskey/aeon,F,1,Gradle,0,10,2019-08-15 00:22:45 UTC,2019-08-14 23:54:12 UTC,F,F,T,F,F,F,F,F,T,F,F,F,1336,1337,1,dependencies,ArtifactResolve,NA
+DrMerfy/ReadingHood-Server,F,1,Gradle,3,1,2017-12-18 17:51:04 UTC,2018-02-12 05:42:30 UTC,T,F,T,F,T,F,F,F,T,T,F,F,88,89,1,configuration,DuplicateTask,NA
+Dremov/twu-biblioteca-andrew,NA,NA,NA,0,1,2019-01-24 01:49:28 UTC,2019-02-11 16:22:42 UTC,F,F,F,F,F,F,F,F,T,F,F,F,48,48,0,NA,NA,NA
+Dxoca/Algorithm_LanQiao,F,1,Maven,7,3,2019-06-27 09:17:45 UTC,2019-07-21 04:23:36 UTC,F,F,F,F,T,F,F,F,T,F,F,F,338,367,29,Java compilation,MojoFailure:maven-compiler-plugin,unmappable character (0xE5) for encoding US-ASCII
+ED6/c-code-parallelizer,NA,NA,NA,0,1,2016-06-09 02:18:09 UTC,2016-06-15 17:58:17 UTC,F,F,F,F,F,F,F,F,T,F,F,F,156,156,0,NA,NA,NA
+ENPM613-MEGA/ClassProject,NA,NA,NA,0,3,2018-09-20 01:38:23 UTC,2018-12-08 04:56:49 UTC,F,F,F,F,T,F,F,F,T,F,F,F,287,287,0,NA,NA,NA
+EdgecraftDevelopmentTeam/UHCCore,NA,NA,NA,1,3,2018-07-29 10:33:52 UTC,2019-01-08 20:24:08 UTC,F,F,F,F,F,F,F,F,T,F,F,F,39,39,0,NA,NA,NA
+ElaBosak233/EusRECALL,F,1,Maven,0,1,2020-02-07 14:01:23 UTC,2020-06-02 21:21:06 UTC,F,F,F,F,T,F,F,F,T,F,F,F,29,41,12,Java compilation,MojoFailure:maven-compiler-plugin,package com.sun.org.apache.regexp.internal does not exist
+EleTeam/Shop-for-JavaWeb,F,1,Maven,360,251,2016-03-12 00:39:48 UTC,2017-05-02 07:00:35 UTC,T,F,F,F,T,F,F,F,T,F,F,F,7796,7796,0,dependencies,DependencyResolution,NA
+EugeneYilia/FusionShell,F,1,Maven,0,2,2018-07-06 13:30:17 UTC,2018-07-08 11:30:58 UTC,F,F,F,F,T,F,F,F,T,F,F,F,95,103,8,Java compilation,MojoFailure:maven-compiler-plugin,Source option 5 is no longer supported. Use 6 or later.
+EvidentSolutions/elasticsearch-analysis-voikko,F,1,Gradle,6,7,2017-01-16 20:58:33 UTC,2019-09-18 11:47:15 UTC,F,F,T,F,F,F,F,F,T,F,F,F,49,52,3,uncategorized,Gradle:generateGlobalBuildInfo,NA
+EwyBoy/INFO-216,NA,NA,NA,1,1,2019-02-12 08:55:06 UTC,2019-05-23 18:38:00 UTC,F,F,F,F,T,F,F,F,T,F,F,F,271,271,0,NA,NA,NA
+Execyute/CDN-FX-2,NA,NA,NA,0,1,2017-01-15 14:46:12 UTC,2017-01-15 14:51:38 UTC,F,F,F,F,F,F,F,F,T,F,F,F,52,52,0,NA,NA,NA
+Expugn/S-argo,T,0,Maven,3,3,2017-09-09 07:35:24 UTC,2019-09-23 11:53:45 UTC,F,F,F,F,T,F,F,F,T,F,F,F,108,213,105,NA,NA,NA
+EzioL/plugin-gen-turbo,NA,NA,NA,16,2,2019-04-21 14:52:29 UTC,2020-01-06 02:21:49 UTC,F,F,F,F,F,F,F,F,T,F,F,F,19,19,0,NA,NA,NA
+FAForever/faf-moderator-client,T,0,Gradle,2,4,2017-11-11 00:24:48 UTC,2020-07-15 19:31:07 UTC,F,F,T,F,F,F,F,F,T,F,T,F,190,458,268,NA,NA,NA
+FiveTwoTeam/LogisticsManagementSystem,F,1,Maven,1,2,2017-09-12 01:37:34 UTC,2017-09-28 07:05:27 UTC,F,F,F,F,T,F,F,F,T,F,F,F,537,537,0,dependencies,DependencyResolution,NA
+FrankYJY/Genealogy-Management-System,NA,NA,NA,1,2,2020-07-05 12:02:18 UTC,2020-07-14 09:27:31 UTC,F,F,F,F,F,F,F,F,T,F,F,F,108,108,0,NA,NA,NA
+GeyserMC/GeyserConnect,T,0,Maven,22,4,2020-06-16 00:04:42 UTC,2020-07-16 17:36:33 UTC,F,F,F,F,T,F,F,F,T,F,F,F,57,116,59,NA,NA,NA
+Great-Li-Xin/LiMe,NA,NA,NA,112,9,2018-10-14 05:52:01 UTC,2020-05-02 07:24:51 UTC,F,F,F,F,F,F,F,F,T,F,T,F,222,222,0,NA,NA,NA
+Group4-ProjectCourse/HotelManagementApp,NA,NA,NA,1,1,2019-11-22 11:03:19 UTC,2020-01-22 16:24:47 UTC,F,F,F,F,F,F,F,F,T,F,F,F,192,192,0,NA,NA,NA
+HEIG-GAPS/slasher,F,1,Maven,0,1,2015-12-17 15:35:03 UTC,2018-08-28 14:41:50 UTC,F,F,F,F,T,F,F,F,T,F,F,F,220,239,19,dependencies,DependencyResolution,NA
+HackDay2018/postgres-analyzer,F,1,Maven,0,2,2018-01-26 08:32:16 UTC,2018-11-30 15:08:52 UTC,F,F,F,F,T,F,F,F,T,F,F,F,48,59,11,Java compilation,MojoExecution:maven-compiler-plugin,java.lang.ExceptionInInitializerError: com.sun.tools.javac.code.TypeTags
+HarunasanOldDrivers/Harunasan_Driving-Testing-System,NA,NA,NA,0,1,2018-11-13 17:01:41 UTC,2019-04-18 08:10:37 UTC,F,F,F,F,T,F,F,F,T,F,F,F,62,62,0,NA,NA,NA
+HelenWu11/DNSManager,NA,NA,NA,0,1,2019-07-28 04:30:06 UTC,2019-07-28 04:13:17 UTC,F,F,F,F,F,F,F,F,T,F,F,F,15,15,0,NA,NA,NA
+HouariZegai/SpoCom,F,1,Gradle,9,1,2018-06-19 15:35:53 UTC,2020-04-17 17:45:07 UTC,F,F,T,F,F,F,F,F,T,T,F,F,97,97,0,dependencies,ArtifactResolve,NA
+HouariZegai/Tutorials,NA,NA,NA,56,46,2018-03-28 18:29:54 UTC,2020-07-10 21:42:49 UTC,F,F,F,F,T,F,F,F,T,F,F,F,164,164,0,NA,NA,NA
+HubSpot/Baragon,T,0,Maven,101,25,2013-11-05 15:51:09 UTC,2020-07-17 18:54:15 UTC,F,F,F,T,T,F,F,F,T,F,T,T,623,41538,40915,NA,NA,NA
+ICGC-TCGA-PanCancer/CGP-Somatic-Docker,F,1,Maven,8,6,2016-01-15 14:28:26 UTC,2019-05-14 02:09:36 UTC,F,F,F,F,T,F,F,F,T,F,T,F,65,65,0,dependencies,DependencyResolution,NA
+IHIW/IHIW_Management,T,0,Maven,3,2,2019-08-29 17:01:49 UTC,2020-07-07 13:44:47 UTC,F,F,F,T,T,F,F,F,T,F,F,T,766,96487,95721,NA,NA,NA
+Iamkosgei/Hero-Squad,T,0,Gradle,0,2,2019-04-12 13:34:03 UTC,2019-04-14 13:59:59 UTC,F,F,T,F,F,F,F,F,T,F,F,F,45,98,53,NA,NA,NA
+Iamkosgei/WildlifeTracker,T,0,Gradle,0,3,2019-04-26 13:20:21 UTC,2019-05-01 04:10:13 UTC,F,F,T,F,F,F,F,F,T,F,F,F,48,100,52,NA,NA,NA
+IanDoyleIrl/IPCAM_Recorder,F,1,Maven,1,2,2013-01-09 23:34:40 UTC,2014-01-08 00:41:08 UTC,F,F,F,F,T,F,F,F,T,F,F,F,167,167,0,dependencies,DependencyResolution,NA
+Invivoo/ViV-Wallet,F,1,Maven,4,4,2019-03-06 16:11:48 UTC,2020-07-21 13:54:49 UTC,F,F,F,T,T,F,F,F,T,F,F,T,135,52693,52558,other build tool integration,MojoFailure:frontend-maven-plugin,NA
+J360-ME/j360-rpc,F,1,Maven,0,2,2017-05-16 14:36:45 UTC,2017-05-27 13:35:36 UTC,F,F,F,F,T,F,F,F,T,F,F,F,77,81,4,Java compilation,MojoFailure:maven-compiler-plugin,"Failure executing javac, but could not parse the error:"
+JPWatson/sbe-generators,T,0,Gradle,0,4,2019-03-21 22:42:42 UTC,2020-01-23 08:59:14 UTC,F,F,T,F,F,F,F,F,T,F,F,F,22,53,31,NA,NA,NA
+JamesEllerbee/Math-Language-Application,NA,NA,NA,0,1,2019-08-24 16:35:09 UTC,2020-05-24 16:43:26 UTC,F,F,F,T,F,F,F,F,T,F,F,F,152,152,0,NA,NA,NA
+JavaITMO/JavaLessons,NA,NA,NA,1,1,2018-03-29 06:01:05 UTC,2018-04-05 18:36:31 UTC,F,F,F,F,F,F,F,F,T,F,F,F,14,14,0,NA,NA,NA
+Jecced/ccc_buider,NA,NA,NA,14,2,2020-04-15 04:25:31 UTC,2020-05-07 09:16:41 UTC,F,F,F,F,F,F,F,F,T,F,F,F,45,45,0,NA,NA,NA
+JeemyJohn/AnomalyDetection,T,0,Maven,193,40,2017-06-26 10:42:04 UTC,2017-08-18 15:38:28 UTC,F,F,F,F,T,F,F,F,T,F,F,F,12,31,19,NA,NA,NA
+JeffreyWei/PatternViaJava,F,1,Maven,33,22,2013-12-05 08:22:10 UTC,2015-05-11 12:52:22 UTC,F,F,F,F,T,F,F,F,T,F,T,F,233,998,765,documentation generation,MojoExecution:maven-javadoc-plugin,NA
+JerzyPuchalski/Android-DPI-Calculator,NA,NA,NA,241,34,2015-06-25 15:21:35 UTC,2016-12-15 09:44:06 UTC,F,F,F,F,F,F,F,F,T,F,F,F,31,31,0,NA,NA,NA
+JetBrains/teamcity-aws-codepipeline-plugin,T,0,Gradle,7,8,2016-04-19 17:21:04 UTC,2020-01-18 23:23:34 UTC,F,F,T,F,F,F,F,F,T,F,F,F,55,158,103,NA,NA,NA
+JimiIT92/UniverseGuardAPI7,T,0,Gradle,1,3,2018-01-28 19:36:06 UTC,2020-07-13 13:53:32 UTC,F,F,T,F,F,F,F,F,T,F,T,F,181,373,192,NA,NA,NA
+JonathanRitchey03/GrayscaleUnicodeArt,NA,NA,NA,4,1,2015-10-17 06:41:38 UTC,2015-11-18 22:41:49 UTC,F,F,F,F,F,F,F,F,T,F,F,F,25,25,0,NA,NA,NA
+Jubaroo/TabardMod,NA,NA,NA,0,1,2017-11-01 23:34:51 UTC,2018-06-23 17:38:32 UTC,F,F,F,F,F,F,F,F,T,F,F,F,54,54,0,NA,NA,NA
+KevinAiken/BluTracking,NA,NA,NA,1,1,2018-11-15 20:43:05 UTC,2020-07-16 13:23:27 UTC,F,F,F,F,T,F,F,F,T,F,F,F,111,111,0,NA,NA,NA
+KevinNovak/InventoryPages,T,0,Maven,0,1,2016-11-03 21:45:03 UTC,2019-06-20 21:26:04 UTC,F,F,F,F,T,F,F,F,T,F,F,F,19,44,25,NA,NA,NA
+KwabenBerko/News-API-Java,T,0,Gradle,8,1,2018-05-19 23:33:32 UTC,2019-01-07 09:08:03 UTC,F,F,T,F,F,F,F,F,T,F,F,F,38,86,48,NA,NA,NA
+Lazerbeak12345/chaml,NA,NA,NA,4,2,2019-10-14 23:05:52 UTC,2020-01-24 23:50:17 UTC,F,F,F,F,F,F,F,F,T,F,F,F,45,45,0,NA,NA,NA
+LiTO773/OfflineMoodleDownloader,F,1,Maven,1,1,2019-07-29 15:03:59 UTC,2019-09-30 15:34:07 UTC,F,F,F,F,T,F,F,F,T,F,F,F,72,93,21,Java compilation,MojoFailure:maven-compiler-plugin,Source option 5 is no longer supported. Use 6 or later.
+Lizamil/Trello_QA21_LMil,NA,NA,NA,0,2,2019-09-02 15:19:56 UTC,2019-11-20 21:38:06 UTC,F,F,T,F,F,F,F,F,T,F,F,F,386,386,0,NA,NA,NA
+Lwdthe1/sitepoint-serialized-java-phone-book,NA,NA,NA,0,1,2016-06-01 17:47:16 UTC,2016-06-01 18:13:08 UTC,F,F,F,F,F,F,F,F,T,F,F,F,17,17,0,NA,NA,NA
+LykkeCity/Lykke.AlgoStore.ServiceManager,F,1,Maven,1,2,2017-10-20 18:33:28 UTC,2017-12-22 06:17:24 UTC,F,F,F,F,T,F,F,F,T,F,F,F,87,87,0,dependencies,DependencyResolution,NA
+MATRIX4284/flink-ignite-streamer,T,0,Maven,1,1,2018-11-26 21:55:49 UTC,2018-11-26 22:03:44 UTC,F,F,F,F,T,F,F,F,T,F,F,F,84,87,3,NA,NA,NA
+MCSunnySide/NewbieProtection,T,0,Maven,0,1,2020-01-08 14:00:28 UTC,2020-06-27 06:55:10 UTC,F,F,F,F,T,F,F,F,T,F,F,F,37,35,2,NA,NA,NA
+MIdCoard/BetterAI,F,1,Maven,1,1,2020-03-30 16:30:05 UTC,2020-03-31 16:00:07 UTC,F,F,F,F,T,F,F,F,T,F,F,F,32,32,0,dependencies,DependencyResolution,NA
+MRusso28/CSC225WaveGame,NA,NA,NA,0,1,2019-08-26 14:17:18 UTC,2019-12-08 22:43:40 UTC,F,F,F,F,F,F,F,F,T,F,F,F,176,176,0,NA,NA,NA
+MaliceGFS/JavaFX-Contact-Manager,NA,NA,NA,0,1,2017-03-16 03:23:11 UTC,2018-10-08 16:47:38 UTC,F,F,F,F,F,F,F,F,T,F,F,F,22,22,0,NA,NA,NA
+MaryzangelaBessa/companhia-persistencia,T,0,Maven,0,1,2019-10-30 00:42:58 UTC,2019-11-27 19:06:58 UTC,F,F,F,F,T,F,F,F,T,F,F,F,66,128,62,NA,NA,NA
+MaybeS/CSE4006,NA,NA,NA,1,2,2017-09-11 01:35:08 UTC,2017-12-26 15:07:12 UTC,T,F,F,F,F,F,F,F,T,F,F,F,356,356,0,NA,NA,NA
+MicK9323/Sistema_Lavamass-Backend,NA,NA,NA,0,1,2018-10-09 15:53:42 UTC,2018-12-02 16:45:50 UTC,F,F,F,F,T,F,F,F,T,F,F,F,68,68,0,NA,NA,NA
+MichaelJahns/javaQuotes,T,0,Gradle,0,1,2019-04-25 18:06:14 UTC,2019-05-06 23:25:15 UTC,F,F,T,F,F,F,F,F,T,F,F,F,44,79,35,NA,NA,NA
+Minkov/java-web-sept-2019,NA,NA,NA,1,1,2019-10-01 17:37:09 UTC,2020-07-02 00:54:08 UTC,F,F,F,F,T,F,F,F,T,F,F,F,209,209,0,NA,NA,NA
+Monogramm/email_signature_generator,T,0,Maven,1,2,2019-10-31 18:17:41 UTC,2019-11-10 19:18:30 UTC,F,F,F,T,T,F,F,F,T,F,T,T,560,99178,98618,NA,NA,NA
+MoorhuhnHD/BilboT,F,1,Maven,0,1,2019-10-26 12:03:01 UTC,2020-07-12 20:38:11 UTC,F,F,F,F,T,F,F,F,T,F,F,F,125,135,10,Java compilation,MojoFailure:maven-compiler-plugin,unmappable character (0xC3) for encoding US-ASCII
+MrTomerLevi/Starkist,T,0,Maven,0,1,2017-04-19 11:09:40 UTC,2017-04-19 11:34:39 UTC,F,F,F,F,T,F,F,F,T,F,F,F,49,103,54,NA,NA,NA
+MummyDing/FileDatabaseDemo,NA,NA,NA,4,1,2015-11-26 03:45:05 UTC,2015-11-26 04:33:26 UTC,F,F,F,F,F,F,F,F,T,F,F,F,23,23,0,NA,NA,NA
+NLCR/komplexni-validator,F,1,Gradle,6,1,2016-12-09 05:04:43 UTC,2020-05-23 19:19:33 UTC,F,F,T,F,F,F,F,F,T,F,F,F,1910,1911,1,build files parsing/interpretation,PluginApplication:javafx-gradle-plugin,NA
+Nerjis/GestionCommercial,NA,NA,NA,0,1,2018-12-21 21:47:09 UTC,2018-12-16 21:15:34 UTC,F,F,F,F,F,F,F,F,T,F,F,F,227,227,0,NA,NA,NA
+NetSPI/AWSSigner,T,0,Gradle,53,25,2017-10-20 19:37:53 UTC,2020-04-23 21:20:24 UTC,F,F,T,F,F,F,F,F,T,F,F,F,66,138,72,NA,NA,NA
+Non-Dairy-Soy-Plugin/Non-Dairy-Soy-Plugin,F,1,Gradle,30,18,2010-08-22 01:21:08 UTC,2017-08-05 11:23:06 UTC,F,F,T,F,F,F,F,F,T,F,T,F,391,392,1,version control integration,PluginApplication:release,NA
+OlaKa/AddressBook2.0,NA,NA,NA,0,1,2016-12-21 18:11:42 UTC,2016-12-23 13:04:08 UTC,F,F,F,F,F,F,F,F,T,F,F,F,45,45,0,NA,NA,NA
+OlliTietavainenVaadin/ext-context-menu,F,1,Maven,0,1,2017-06-12 08:11:00 UTC,2018-09-18 06:09:07 UTC,F,F,F,F,T,F,F,F,T,F,F,F,71,261,190,documentation generation,MojoExecution:maven-javadoc-plugin,NA
+Open-RSC/Open-Pi-Scape,NA,NA,NA,0,1,2019-10-13 14:07:50 UTC,2019-10-17 04:52:58 UTC,T,F,F,T,F,F,F,F,T,F,F,F,1469,1469,0,NA,NA,NA
+OpenIndex/RemoteSupportTool,T,0,Maven,31,18,2015-06-16 17:27:53 UTC,2019-04-24 20:26:31 UTC,F,F,F,F,T,F,F,F,T,F,F,T,255,456,201,NA,NA,NA
+P7h/StormTopRetweets,T,0,Maven,0,2,2013-06-06 22:55:12 UTC,2015-01-03 01:26:50 UTC,F,F,F,F,T,F,F,F,T,F,F,F,27,58,31,NA,NA,NA
+P7h/StormTweetsURLUnShortening,T,0,Maven,0,2,2013-05-12 22:00:39 UTC,2015-01-01 00:32:44 UTC,F,F,F,F,T,F,F,T,T,F,F,F,35,73,38,NA,NA,NA
+PB-J/Codenames-354,F,1,Maven,1,1,2019-01-17 03:10:05 UTC,2019-04-08 01:37:12 UTC,F,F,F,F,T,F,F,F,T,F,F,F,151,169,18,Java compilation,MojoFailure:maven-compiler-plugin,package javafx.application does not exist
+PacktPublishing/Apache-Hive-Essentials-Second-Edition,NA,NA,NA,16,12,2018-04-10 14:22:22 UTC,2018-07-02 06:57:53 UTC,F,F,F,F,T,F,F,F,T,F,F,F,38,38,0,NA,NA,NA
+PacktPublishing/Developing-Middleware-in-Java-EE-8,NA,NA,NA,5,5,2018-04-27 06:29:47 UTC,2018-08-13 10:09:47 UTC,T,F,F,F,T,F,F,F,T,T,F,F,507,507,0,NA,NA,NA
+PacktPublishing/Spring-5.0-By-Example,NA,NA,NA,55,78,2017-11-27 07:17:18 UTC,2018-04-01 11:31:09 UTC,F,F,F,F,T,F,F,F,T,F,F,F,1415,1415,0,NA,NA,NA
+PistoiaHELM/HELM2NotationToolkit,F,1,Maven,3,6,2016-02-29 14:04:59 UTC,2020-06-15 20:02:16 UTC,F,F,F,F,T,F,F,F,T,F,F,F,159,552,393,documentation generation,MojoExecution:maven-javadoc-plugin,NA
+Pivotal-Open-Source-Hub/StockPrediction,NA,NA,NA,68,44,2015-06-02 05:38:00 UTC,2015-06-30 18:25:57 UTC,F,F,T,F,F,F,F,T,T,F,F,F,103,103,0,NA,NA,NA
+ProgrammingLife2017/Desoxyribonucleinezuur,F,1,Maven,1,1,2017-04-25 08:37:23 UTC,2017-07-07 15:05:56 UTC,F,F,F,F,T,F,F,F,T,F,T,F,108,134,26,Java compilation,MojoFailure:maven-compiler-plugin,package javafx.application does not exist
+Pypy233/ERPServer,F,1,Maven,1,1,2017-12-22 02:46:54 UTC,2018-04-13 12:20:09 UTC,F,F,F,F,T,F,F,F,T,F,T,F,389,217,8,Java compilation,MojoFailure:maven-compiler-plugin,unmappable character (0xE5) for encoding US-ASCII
+Qlone/basicWX,T,0,Maven,0,1,2018-01-10 03:02:19 UTC,2018-01-22 13:38:22 UTC,F,F,F,F,T,F,F,F,T,F,F,F,49,89,42,NA,NA,NA
+QuakeWang/DataStructes,NA,NA,NA,2,2,2020-05-11 02:42:42 UTC,2020-07-20 12:00:21 UTC,F,F,F,F,F,F,F,F,T,F,F,F,24,24,0,NA,NA,NA
+Ramit110/HackKing-s-5.0,NA,NA,NA,0,1,2018-12-08 12:04:50 UTC,2018-12-10 15:59:52 UTC,F,F,F,F,F,F,F,F,T,F,F,F,22,22,0,NA,NA,NA
+RapidProjectH2020/rapid-linux,NA,NA,NA,2,1,2016-02-23 05:40:40 UTC,2017-11-10 16:02:21 UTC,T,F,F,F,T,F,F,F,T,F,F,F,82,82,0,NA,NA,NA
+Redislabs-Solution-Architects/brewdis,T,0,Gradle,5,11,2019-09-19 23:42:45 UTC,2020-07-19 10:03:31 UTC,F,F,T,T,F,F,F,F,T,F,F,T,2093,72152,70059,NA,NA,NA
+RivuChk/RxJavaTalk,T,0,Gradle,1,1,2017-11-12 10:07:09 UTC,2017-11-12 14:24:44 UTC,F,F,T,F,F,F,F,F,T,F,F,F,38,67,29,NA,NA,NA
+RunningGreens/IntelligentPharmacy,F,1,Maven,0,1,2018-11-15 08:15:33 UTC,2018-11-15 08:30:52 UTC,F,F,F,F,T,F,F,F,T,F,F,F,473,473,0,dependencies,DependencyResolution,NA
+SAP/cloud-language-servers-container,T,0,Maven,1,8,2017-08-17 18:00:44 UTC,2020-07-17 09:18:47 UTC,F,F,F,F,T,F,F,F,T,F,T,F,79,189,110,NA,NA,NA
+SKHS-CS-A-Master/TicTacToe-2018,NA,NA,NA,0,13,2018-06-01 14:13:29 UTC,2018-06-11 14:11:35 UTC,F,F,F,F,F,F,F,F,T,F,F,F,13,13,0,NA,NA,NA
+SaeedMasoumi/stupidwarriors,F,1,Ant,5,5,2014-04-27 08:05:39 UTC,2014-07-28 07:25:23 UTC,T,F,F,F,F,F,F,F,T,T,F,F,601,601,0,configuration,Target:-do-init,NA
+SalParis/Progetto-E-18-ultimate,NA,NA,NA,0,1,2018-07-04 16:22:07 UTC,2018-07-05 16:20:08 UTC,F,F,F,F,F,F,F,F,T,F,F,F,121,121,0,NA,NA,NA
+SeanOMik/TamableFoxes,F,1,Maven,7,3,2020-01-16 04:25:34 UTC,2020-07-19 19:10:53 UTC,F,F,F,F,T,F,F,F,T,F,F,F,72,72,0,dependencies,DependencyResolution,NA
+Sharember/bfmvc,NA,NA,NA,84,29,2017-05-26 12:01:16 UTC,2017-10-07 03:44:55 UTC,F,F,F,F,T,F,F,F,T,F,F,F,91,91,0,NA,NA,NA
+SijmenHuizenga/ASD-APP,T,0,Maven,0,1,2017-03-04 13:48:24 UTC,2017-03-17 20:15:26 UTC,F,F,F,F,T,F,F,F,T,F,F,F,133,287,154,NA,NA,NA
+SmithNola/QuizGenerator,T,0,Maven,2,3,2020-05-01 22:36:50 UTC,2020-07-20 22:47:09 UTC,F,F,F,F,T,F,F,F,T,F,F,F,95,212,117,NA,NA,NA
+SoftEng-HEIGVD/Teaching-HEIGVD-AMT-MVC-simple-example,T,0,Maven,1,40,2018-09-23 06:31:05 UTC,2019-10-14 08:42:30 UTC,F,F,F,F,T,F,F,F,T,F,F,F,27,72,45,NA,NA,NA
+Sorixelle/bloodmoney,F,1,Gradle,0,2,2015-09-30 00:47:29 UTC,2016-04-13 13:40:13 UTC,F,F,T,F,F,F,F,F,T,F,F,F,26,27,1,dependencies,ArtifactResolve,NA
+Staartvin/Statz,F,1,Maven,10,14,2016-04-15 23:03:34 UTC,2020-07-08 08:42:34 UTC,F,F,F,F,T,F,F,T,T,F,F,T,172,183,11,Java compilation,MojoFailure:maven-compiler-plugin,package me.staartvin.utils.pluginlibrary does not exist
+Stegger/SteggersStudentRegistration,F,1,Ant,0,1,2019-03-18 08:22:46 UTC,2020-03-22 20:49:05 UTC,T,F,F,F,F,F,F,F,T,T,F,F,83,89,6,Java compilation,Target:-do-compile,package javafx.application does not exist
+SteveTheEngineer/SS-Core-Base,T,0,Gradle,0,1,2020-02-25 13:44:00 UTC,2020-03-09 15:22:21 UTC,F,F,T,F,T,F,F,F,T,F,F,F,42,86,44,NA,NA,NA
+Superdizzy17/OOP-Assignment-3-Cinema-Booking,NA,NA,NA,0,4,2017-03-20 16:30:51 UTC,2017-04-26 12:56:49 UTC,F,F,F,F,F,F,F,F,T,F,F,F,85,85,0,NA,NA,NA
+TerryTsai/Serial-Monitor,F,1,Gradle,1,5,2015-12-17 21:37:22 UTC,2016-03-06 06:50:05 UTC,F,F,T,F,F,F,F,F,T,F,F,F,52,68,16,Java compilation,CompilationFailed,package javafx.application does not exist
+Thanatos23/oop,NA,NA,NA,1,2,2018-06-25 21:27:03 UTC,2018-06-25 21:36:51 UTC,F,F,F,F,F,F,F,F,T,F,F,F,47,47,0,NA,NA,NA
+TheDrHax/MIREA-OOP,NA,NA,NA,4,3,2015-12-26 17:55:14 UTC,2016-04-14 09:03:19 UTC,F,F,F,F,F,F,F,F,T,F,F,F,77,77,0,NA,NA,NA
+ToView/qrcodecore,T,0,Maven,23,9,2018-07-17 11:06:21 UTC,2018-08-01 10:21:58 UTC,F,F,F,F,T,F,F,F,T,F,F,F,20,42,22,NA,NA,NA
+Truji92/ProyectoFinalDDSI,T,0,Ant,0,1,2015-01-19 23:07:57 UTC,2015-01-20 09:00:42 UTC,T,F,F,F,F,F,F,F,T,T,F,F,86,91,10,NA,NA,NA
+V1adau/GameOfLife,NA,NA,NA,0,1,2017-01-27 14:07:28 UTC,2017-11-09 16:40:12 UTC,F,F,F,F,F,F,F,F,T,F,F,F,142,142,0,NA,NA,NA
+VISTALL/apache.velocity-engine,T,0,Ant,1,2,2012-06-11 14:33:25 UTC,2012-08-05 04:58:14 UTC,T,F,F,F,F,F,F,F,T,F,T,F,833,1144,311,NA,NA,NA
+ValdesChe/AppGrandPa,NA,NA,NA,1,5,2018-12-25 10:57:06 UTC,2019-01-30 19:47:02 UTC,F,F,F,F,F,F,F,F,T,F,F,F,126,126,0,NA,NA,NA
+VanHoangTran/wodss,NA,NA,NA,1,1,2018-02-19 14:29:21 UTC,2018-05-28 17:44:17 UTC,F,F,T,F,F,F,F,F,T,F,F,F,542,542,0,NA,NA,NA
+Veronicka/VinilBanco,NA,NA,NA,1,1,2015-10-26 03:33:05 UTC,2015-11-02 19:09:47 UTC,F,F,F,F,F,F,F,T,T,F,F,F,111,111,0,NA,NA,NA
+Warvale/Ace,F,1,Maven,0,1,2017-08-08 20:53:17 UTC,2017-09-14 18:38:10 UTC,F,F,F,F,T,F,F,F,T,F,F,F,39,51,12,Java compilation,MojoExecution:maven-compiler-plugin,java.lang.ExceptionInInitializerError: com.sun.tools.javac.code.TypeTags
+Willian-Ribeiro/Projeto-Compilador,NA,NA,NA,0,1,2019-08-04 07:40:55 UTC,2019-10-02 01:33:01 UTC,F,F,F,F,F,F,F,F,T,F,F,F,841,841,0,NA,NA,NA
+XiMingJun/videoManager,T,0,Maven,2,1,2018-05-08 11:39:46 UTC,2018-05-17 00:58:58 UTC,F,F,F,F,T,F,F,F,T,F,F,F,171,327,157,NA,NA,NA
+XiaoBuDianKeJi/Mars,F,1,Maven,4,8,2017-12-24 06:39:41 UTC,2017-12-28 08:26:09 UTC,F,F,F,F,T,F,F,F,T,F,F,F,79,69,6,Java compilation,MojoFailure:maven-compiler-plugin,Source option 5 is no longer supported. Use 6 or later.
+XiaoChenYung/YCBugsManager,NA,NA,NA,1,2,2016-10-23 07:56:53 UTC,2017-03-14 02:36:59 UTC,F,F,F,F,T,F,F,F,T,F,F,F,346,346,0,NA,NA,NA
+Yassine-Lafryhi/Fralgo,NA,NA,NA,3,1,2019-06-12 03:21:12 UTC,2020-05-11 13:18:33 UTC,F,F,F,F,F,F,F,F,T,F,F,F,23,23,0,NA,NA,NA
+Zero069/rock-paper-scissors,NA,NA,NA,2,1,2019-03-29 20:41:55 UTC,2019-10-01 22:21:36 UTC,F,F,F,F,F,F,F,F,T,F,F,F,10,10,0,NA,NA,NA
+Zhaoyy/TinyPNG_JavaClient,F,1,Gradle,1,1,2015-10-20 06:48:03 UTC,2017-05-12 07:08:40 UTC,F,F,T,F,F,F,F,F,T,F,F,F,30,31,1,build files parsing/interpretation,MissingProperty,NA
+Zimbra-Community/zimbra-foss-2fa,NA,NA,NA,16,10,2019-01-22 13:27:55 UTC,2020-04-02 09:01:18 UTC,F,F,F,F,F,F,F,F,T,F,F,F,230,230,0,NA,NA,NA
+abcdss112313/nc_azkaban,T,0,Maven,6,5,2017-01-06 14:45:58 UTC,2017-03-07 13:40:06 UTC,F,F,F,F,T,F,F,F,T,F,F,F,603,1272,669,NA,NA,NA
+abhiCR7/DataStructure,NA,NA,NA,0,1,2016-02-05 04:07:50 UTC,2019-10-15 08:53:14 UTC,F,F,F,F,F,F,F,F,T,F,F,F,27,27,0,NA,NA,NA
+aditosoftware/adito-nb-modules,F,1,Maven,0,2,2018-07-30 15:34:59 UTC,2020-07-17 10:17:07 UTC,F,F,F,F,T,F,F,F,T,F,T,F,1980,1980,0,dependencies,PluginManager,NA
+aditosoftware/jloadr,T,0,Maven,3,1,2016-09-08 19:07:08 UTC,2020-04-02 10:57:47 UTC,F,F,F,F,T,F,F,F,T,F,T,F,112,335,223,NA,NA,NA
+aditosoftware/ojcms,T,0,Maven,3,2,2017-10-13 07:44:12 UTC,2020-06-13 14:00:11 UTC,F,F,F,F,T,F,F,F,T,F,T,F,625,1528,903,NA,NA,NA
+adlered/LiteFTPD-UNIX,NA,NA,NA,32,3,2019-08-15 06:00:19 UTC,2019-11-19 01:23:36 UTC,F,F,F,F,F,F,F,F,T,F,F,F,77,77,0,NA,NA,NA
+adlered/Slog4J,NA,NA,NA,5,2,2019-03-28 06:47:22 UTC,2019-09-26 01:07:55 UTC,F,F,F,F,F,F,F,F,T,F,F,F,32,32,0,NA,NA,NA
+adobe/aem-core-cif-components,T,0,Maven,45,31,2019-05-01 19:40:37 UTC,2020-07-20 11:37:11 UTC,F,F,F,T,T,F,F,F,T,F,F,T,1661,51620,49959,NA,NA,NA
+aelkz/FuseJDGRestSpringBoot,F,1,Maven,0,1,2019-02-11 21:36:31 UTC,2019-02-13 16:44:20 UTC,F,F,F,F,T,F,F,F,T,F,F,F,125,125,0,dependencies,DependencyResolution,NA
+agido/settingsenforcer,NA,NA,NA,0,1,2017-03-23 09:27:39 UTC,2020-04-16 13:50:08 UTC,F,F,F,F,F,F,F,F,T,F,F,F,64,64,0,NA,NA,NA
+ahmetaa/leblebi,T,0,Maven,11,5,2013-12-25 19:48:26 UTC,2017-03-27 11:30:44 UTC,F,F,F,F,T,F,F,F,T,F,F,F,24,64,40,NA,NA,NA
+ahus1/logging-and-tracing,F,1,Maven,3,1,2016-11-06 21:36:52 UTC,2020-07-07 09:32:45 UTC,F,F,F,F,T,F,F,F,T,F,F,F,97,103,6,Java compilation,MojoExecution:maven-compiler-plugin,java.lang.ExceptionInInitializerError: com.sun.tools.javac.code.TypeTags
+aikar/util,T,0,Gradle,4,2,2018-03-30 03:05:07 UTC,2018-03-31 17:42:03 UTC,F,F,T,F,F,F,F,F,T,F,F,F,85,872,787,NA,NA,NA
+albuszheng/SpeechHub,NA,NA,NA,0,1,2016-11-28 01:15:04 UTC,2016-11-30 01:23:48 UTC,F,F,F,F,F,F,F,T,T,F,F,F,49,49,0,NA,NA,NA
+alexandreroman/cloudnativepoll,T,0,Maven,2,5,2019-09-04 14:23:20 UTC,2020-06-26 22:12:28 UTC,F,F,F,F,T,F,F,F,T,F,F,F,85,206,121,NA,NA,NA
+alexandreroman/spring-cloud-gateway-routing-demo,T,0,Maven,4,3,2020-01-13 21:17:03 UTC,2020-02-17 11:40:00 UTC,F,F,F,F,T,F,F,F,T,F,F,F,104,250,146,NA,NA,NA
+alexischr/seurat,T,0,Ant,4,2,2013-09-17 07:40:41 UTC,2014-04-13 06:22:47 UTC,T,F,F,F,F,F,F,F,T,F,F,F,49,85,36,NA,NA,NA
+alexpana/kreativity-ui,F,1,Gradle,15,3,2016-02-22 20:04:21 UTC,2016-10-16 20:31:15 UTC,F,F,T,F,F,F,F,F,T,F,T,F,195,196,1,build files parsing/interpretation,PluginApplication:sonarqube,NA
+alfredxl/TuandaiBiPlugin,NA,NA,NA,2,1,2018-07-18 09:54:45 UTC,2018-09-20 03:21:29 UTC,F,F,F,F,F,F,F,F,T,F,F,F,59,59,0,NA,NA,NA
+alhparsa/Snake,NA,NA,NA,0,1,2017-06-03 08:53:30 UTC,2018-04-08 17:47:39 UTC,F,F,F,F,F,F,F,F,T,F,F,F,16,16,0,NA,NA,NA
+amosannn/zhiliao,F,1,Maven,1,2,2017-12-30 14:34:30 UTC,2018-04-10 14:05:12 UTC,F,F,F,F,T,F,F,F,T,F,F,F,84,84,0,configuration,ProjectBuilding,NA
+andrewtgomez96/compiler-CPSC323,NA,NA,NA,0,1,2018-10-03 23:03:44 UTC,2018-12-11 08:04:30 UTC,F,F,F,F,F,F,F,F,T,F,F,F,84,84,0,NA,NA,NA
+andriikravets/TeachingJavaMaterials,NA,NA,NA,1,2,2014-12-16 18:44:48 UTC,2015-01-13 18:32:00 UTC,F,F,F,F,T,F,F,F,T,F,F,F,92,92,0,NA,NA,NA
+andysim3d/Jxpress,T,0,Maven,4,1,2016-08-19 16:22:06 UTC,2018-10-19 17:22:44 UTC,F,F,F,F,T,F,F,T,T,F,T,F,57,122,65,NA,NA,NA
+apache/ambari-logsearch,F,1,Maven,13,14,2018-09-25 18:07:23 UTC,2019-02-07 19:14:34 UTC,T,F,T,T,T,F,F,F,T,F,F,T,1690,42055,40365,other build tool integration,MojoFailure:frontend-maven-plugin,NA
+apache/atlas,T,0,Maven,588,361,2017-07-22 07:00:08 UTC,2020-07-20 06:58:52 UTC,F,F,F,T,T,F,F,T,T,F,F,T,3120,48680,45560,NA,NA,NA
+apache/calcite,NA,NA,NA,1941,1155,2014-06-25 07:00:07 UTC,2020-07-22 03:25:49 UTC,F,F,F,F,F,F,F,F,T,F,T,F,2971,2971,0,NA,NA,NA
+apache/camel,T,0,Maven,3313,4053,2009-05-21 00:25:36 UTC,2020-07-19 05:34:48 UTC,T,F,F,T,T,F,F,F,T,F,F,F,45355,140038,94683,NA,NA,NA
+apache/dubbo-admin,T,0,Maven,2715,1444,2018-01-11 05:30:17 UTC,2020-07-17 05:06:11 UTC,F,F,F,T,T,F,F,F,T,F,F,T,372,39340,38968,NA,NA,NA
+apache/incubator-streampipes,T,0,Maven,150,24,2018-04-22 20:06:55 UTC,2020-07-19 18:53:40 UTC,F,F,F,F,T,F,F,F,T,F,F,F,3837,7582,3745,NA,NA,NA
+appian/integration-sdk-examples,NA,NA,NA,6,28,2018-10-09 19:13:19 UTC,2020-01-30 16:14:20 UTC,F,F,T,F,F,F,F,F,T,F,F,F,217,217,0,NA,NA,NA
+arcao/esp8266-oled-ssd1306-font-creator,T,0,Gradle,21,7,2016-09-13 12:29:58 UTC,2020-06-24 00:51:18 UTC,F,F,T,F,F,F,F,F,T,F,F,F,21,56,35,NA,NA,NA
+arohou/gP2S,F,1,Maven,8,2,2019-04-15 15:50:28 UTC,2019-05-13 16:46:58 UTC,F,F,F,T,T,F,F,F,T,F,F,T,973,45139,44166,other build tool integration,MojoFailure:frontend-maven-plugin,NA
+artspb/idea-pitest,T,0,Maven,3,3,2015-01-26 17:07:48 UTC,2019-09-04 09:06:28 UTC,F,F,F,F,T,F,F,F,T,F,F,F,68,100,32,NA,NA,NA
+asiermarin/u5-poo-ejemplos,NA,NA,NA,0,1,2019-02-24 19:41:55 UTC,2018-12-10 15:35:25 UTC,F,F,F,F,F,F,F,F,T,F,F,F,112,112,0,NA,NA,NA
+asmehra95/wiseowl,F,1,Maven,23,9,2017-01-24 17:34:03 UTC,2020-02-12 19:30:06 UTC,F,F,F,F,T,F,F,T,T,F,F,F,172,180,8,Java compilation,MojoFailure:maven-compiler-plugin,Source option 5 is no longer supported. Use 6 or later.
+aspose-diagram/Aspose.Diagram-for-Java,NA,NA,NA,7,14,2014-05-29 16:20:05 UTC,2020-04-15 09:18:15 UTC,F,F,F,F,T,F,F,F,T,F,F,F,979,979,0,NA,NA,NA
+aspose-pdf/Aspose.PDF-for-Java,NA,NA,NA,59,93,2011-11-25 13:52:01 UTC,2020-02-21 10:57:41 UTC,F,F,F,F,T,F,F,T,T,F,F,F,1155,1155,0,NA,NA,NA
+asraful/projectX,NA,NA,NA,1,1,2014-09-02 05:31:02 UTC,2014-11-14 19:05:57 UTC,F,F,F,F,T,F,F,F,T,F,F,F,261,261,0,NA,NA,NA
+astrapi69/ent-api,F,1,Gradle,3,1,2018-12-05 20:31:06 UTC,2020-07-17 12:47:30 UTC,F,F,T,F,F,F,F,F,T,F,T,F,77,81,4,build files parsing/interpretation,MissingProperty,NA
+astrapi69/silly-math,F,1,Gradle,2,1,2019-01-20 10:15:20 UTC,2020-06-16 10:22:07 UTC,F,F,T,F,F,F,F,F,T,F,T,F,35,39,4,build files parsing/interpretation,MissingProperty,NA
+barancev/java_pft,NA,NA,NA,8,6,2015-12-28 15:46:54 UTC,2016-06-23 12:15:34 UTC,F,F,T,F,F,F,F,F,T,F,F,F,203,203,0,NA,NA,NA
+barancev/testng_samples,F,1,Maven,6,8,2014-05-07 10:27:42 UTC,2016-04-26 11:23:19 UTC,F,F,F,F,T,F,F,F,T,F,F,F,159,159,0,dependencies,DependencyResolution,NA
+basic60/ZFS,NA,NA,NA,0,1,2017-07-09 05:36:46 UTC,2017-07-17 13:49:43 UTC,F,F,F,F,F,F,F,F,T,F,F,F,49,49,0,NA,NA,NA
+bdshadow/DartJsonSerializationGeneratorIdeaPlugin,NA,NA,NA,5,2,2019-03-20 07:56:08 UTC,2020-04-25 22:04:24 UTC,F,F,F,F,F,F,F,F,T,F,F,F,22,22,0,NA,NA,NA
+bertrandmartel/javacard-tutorial,F,1,Gradle,13,4,2017-08-31 21:38:13 UTC,2018-11-06 21:50:50 UTC,F,F,T,F,F,F,F,F,T,F,T,T,98,99,1,build files parsing/interpretation,GroovyRuntime,NA
+berv-uni-project/Crypto,T,0,Gradle,1,1,2018-01-30 08:57:12 UTC,2020-05-01 08:44:40 UTC,F,F,T,F,F,F,F,T,T,F,T,F,43,81,38,NA,NA,NA
+bestksl/SSW555_repo,NA,NA,NA,3,2,2019-09-06 00:41:53 UTC,2019-11-22 05:53:37 UTC,F,F,F,F,T,F,F,F,T,F,T,F,110,110,0,NA,NA,NA
+biarca4client/vertx-template-gcb,F,1,Maven,0,1,2018-05-25 20:06:09 UTC,2018-05-31 05:33:36 UTC,F,F,F,F,T,F,F,F,T,F,T,F,41,41,0,dependencies,DependencyResolution,NA
+billkellett/datastax-core-java,T,0,Maven,1,1,2019-05-22 17:34:17 UTC,2019-05-23 12:49:05 UTC,F,F,F,F,T,F,F,F,T,F,F,F,34,76,42,NA,NA,NA
+bisq-network/bisq,F,1,Gradle,3120,1045,2014-03-12 09:42:29 UTC,2020-07-20 18:05:50 UTC,F,F,T,T,F,F,F,F,T,F,T,F,2944,5270,2326,uncategorized,Gradle:processResources,NA
+bodar/totallylazy,NA,NA,NA,247,34,2014-10-18 07:34:24 UTC,2020-04-15 07:35:30 UTC,F,F,F,F,F,F,F,F,T,F,F,F,669,669,0,NA,NA,NA
+bozaro/git-lfs-migrate,F,1,Gradle,212,27,2015-06-08 16:03:45 UTC,2017-03-03 12:08:56 UTC,F,F,T,F,F,F,F,F,T,F,T,F,50,51,1,configuration,DuplicateTask,NA
+brianethier/BareConnection,T,0,Gradle,1,1,2014-08-04 00:03:00 UTC,2020-04-15 14:00:39 UTC,F,F,T,F,F,F,F,F,T,F,F,F,36,88,52,NA,NA,NA
+btcbrdev/bitcoin-otc-wot-for-the-lazy,NA,NA,NA,9,4,2016-01-31 20:24:55 UTC,2016-02-04 00:43:03 UTC,T,F,F,F,F,F,F,F,T,T,F,F,63,63,0,NA,NA,NA
+buildupchao/HadoopLearning,T,0,Maven,0,1,2017-09-10 04:48:28 UTC,2019-03-12 03:48:37 UTC,F,F,F,F,T,F,F,F,T,F,F,F,127,279,153,NA,NA,NA
+bulenkov/iconloader,F,1,Ant,36,12,2014-01-07 20:46:40 UTC,2017-08-01 19:59:35 UTC,T,F,F,F,F,F,F,F,T,F,F,F,75,78,3,uncategorized,Target:compile.module.iconloader.production,NA
+burningdark1007/Tmall,F,1,Maven,0,1,2019-12-24 06:22:41 UTC,2020-07-02 01:44:35 UTC,F,F,F,F,T,F,F,F,T,F,F,F,919,799,0,uncategorized,MojoExecution:maven-clean-plugin,NA
+byquanton/Haweb,NA,NA,NA,6,2,2018-07-22 09:25:09 UTC,2018-12-19 13:49:19 UTC,F,F,F,F,T,F,F,F,T,F,F,F,169,169,0,NA,NA,NA
+c0wg0d/NameSync,F,1,Maven,1,1,2017-03-25 12:28:54 UTC,2017-03-25 12:29:05 UTC,F,F,F,F,T,F,F,F,T,F,F,F,36,36,0,dependencies,DependencyResolution,NA
+cache117/cs453-text-doc-classification,T,0,Maven,2,1,2017-06-12 15:45:10 UTC,2017-06-19 21:40:24 UTC,F,F,F,F,T,F,F,F,T,F,F,F,10119,20246,10127,NA,NA,NA
+cbh4ou/AlliedJavaSpring2019,F,1,Ant,0,2,2019-04-22 23:45:45 UTC,2019-05-16 07:40:26 UTC,T,F,F,F,F,F,F,F,T,T,F,F,87,70,3,Java compilation,Target:-do-compile,package net.proteanit.sql does not exist
+cdcdec/javafx-ensemble8,F,1,Maven,0,1,2019-02-20 10:23:47 UTC,2019-02-22 05:26:36 UTC,F,F,F,F,T,F,F,F,T,F,F,F,1666,1674,8,Java compilation,MojoFailure:maven-compiler-plugin,unmappable character (0xE6) for encoding US-ASCII
+ceb3745/staplesProject,NA,NA,NA,1,1,2019-03-18 22:34:13 UTC,2019-04-16 00:11:27 UTC,F,F,F,F,F,F,F,F,T,F,F,F,65,65,0,NA,NA,NA
+cedricwalter/spring-batch-sample,F,1,Maven,0,1,2017-03-08 14:41:15 UTC,2017-03-08 15:25:14 UTC,F,F,F,F,T,F,F,F,T,F,F,F,38,135,97,Java compilation,MojoFailure:maven-compiler-plugin,Source option 5 is no longer supported. Use 6 or later.
+chanjin/DesignEvolution,NA,NA,NA,0,1,2015-03-16 09:44:25 UTC,2015-04-08 09:50:34 UTC,F,F,F,F,F,T,F,F,T,F,F,F,114,114,0,NA,NA,NA
+charxie/energy2d,NA,NA,NA,26,15,2014-03-28 15:24:48 UTC,2019-12-25 03:04:10 UTC,T,F,F,F,F,F,F,F,T,F,F,F,370,370,0,NA,NA,NA
+cheenar/j-edsby.com,NA,NA,NA,2,2,2016-03-25 17:49:34 UTC,2016-03-27 02:15:49 UTC,F,F,F,F,F,F,F,F,T,F,F,F,50,50,0,NA,NA,NA
+chenja01/DesignPattern,NA,NA,NA,0,1,2016-09-11 04:42:05 UTC,2016-12-23 01:13:56 UTC,F,F,F,F,F,F,F,F,T,F,F,F,225,225,0,NA,NA,NA
+chenqian56131/spring-boot-starter-canal,NA,NA,NA,75,52,2018-03-20 09:02:33 UTC,2018-05-30 06:08:20 UTC,F,F,F,F,T,F,F,F,T,F,F,F,73,73,0,NA,NA,NA
+cltl/OntoTagger,T,0,Maven,8,3,2013-07-10 09:17:37 UTC,2019-09-25 10:21:23 UTC,F,F,F,F,T,F,F,F,T,F,F,F,65,88,23,NA,NA,NA
+code-orchestra/colt-as,NA,NA,NA,13,5,2013-07-26 05:05:52 UTC,2015-11-17 21:53:13 UTC,F,F,F,F,F,F,F,F,T,F,F,F,222,222,0,NA,NA,NA
+code-orchestra/colt-build,F,1,Gradle,6,5,2013-09-03 09:41:22 UTC,2015-11-17 22:35:30 UTC,F,F,T,F,F,F,F,F,T,F,F,F,41,42,1,build files parsing/interpretation,MissingProperty,NA
+comroid-git/VBAN-API,F,1,Gradle,6,1,2018-12-01 17:40:48 UTC,2020-07-22 22:11:55 UTC,F,F,T,F,T,F,F,F,T,F,F,F,241,242,1,build files parsing/interpretation,UnsupportedOperation,NA
+crazyyanchao/Compiler,NA,NA,NA,1,1,2016-06-23 06:37:53 UTC,2020-04-28 05:09:20 UTC,F,F,F,F,F,F,F,T,T,F,F,F,19,19,0,NA,NA,NA
+crazyyanchao/JavaGC,NA,NA,NA,1,1,2016-06-20 17:40:41 UTC,2020-04-28 05:06:45 UTC,F,F,F,F,F,F,F,F,T,F,F,F,15,15,0,NA,NA,NA
+cristid9/FunWeb,NA,NA,NA,0,1,2017-03-11 19:01:18 UTC,2018-08-02 16:16:57 UTC,F,F,F,T,T,F,F,F,T,F,F,F,687,687,0,NA,NA,NA
+crtomirmajer/wmd4j,F,1,Maven,31,12,2016-09-21 21:29:00 UTC,2016-12-19 06:39:48 UTC,F,F,F,F,T,F,F,F,T,F,F,F,43,51,8,Java compilation,MojoExecution:maven-compiler-plugin,java.lang.ExceptionInInitializerError: com.sun.tools.javac.code.TypeTags
+cumtping/Androud-Studio-Plugin---CodeGenerator,NA,NA,NA,3,2,2016-01-31 06:58:48 UTC,2016-02-26 08:30:20 UTC,F,F,F,F,F,F,F,F,T,F,F,F,47,47,0,NA,NA,NA
+customs-group/customs.clustering,F,1,Maven,1,1,2017-04-21 05:46:39 UTC,2017-06-21 06:44:16 UTC,F,F,F,F,T,F,F,F,T,F,F,F,130,126,2,Java compilation,MojoFailure:maven-compiler-plugin,package org.edward.marog does not exist
+cytomine/Cytomine-java-client,T,0,Maven,12,8,2015-04-14 05:59:49 UTC,2020-04-30 08:37:30 UTC,F,F,F,F,T,F,F,F,T,F,F,F,116,244,128,NA,NA,NA
+dan200/Billund,NA,NA,NA,6,4,2014-08-05 19:09:30 UTC,2014-08-05 21:23:07 UTC,F,F,F,F,F,F,F,F,T,F,F,F,66,66,0,NA,NA,NA
+dashan124/healthcaremanagement,T,0,Ant,1,3,2017-11-17 05:09:12 UTC,2018-08-22 06:16:33 UTC,T,F,F,F,F,F,F,T,T,T,F,F,168,153,4,NA,NA,NA
+datalogics/pdf-java-toolkit-samples,F,1,Maven,15,17,2015-12-01 21:40:08 UTC,2019-01-29 23:02:48 UTC,F,F,F,F,T,F,F,F,T,F,F,F,172,172,0,dependencies,DependencyResolution,NA
+davidkneely/MusicMaker,NA,NA,NA,1,1,2015-02-13 22:26:34 UTC,2015-03-02 00:04:42 UTC,F,F,F,F,F,F,F,T,T,F,F,F,11,11,0,NA,NA,NA
+dbchar/zoomapi-java,T,0,Gradle,0,1,2020-06-05 10:31:40 UTC,2020-06-05 11:03:43 UTC,F,F,T,F,F,F,F,F,T,F,F,F,117,261,144,NA,NA,NA
+dbflute-session/tmp-javatry,T,0,Maven,0,23,2019-04-17 07:12:24 UTC,2019-05-23 06:32:56 UTC,F,F,F,F,T,F,F,T,T,F,F,F,104,397,293,NA,NA,NA
+dbpedia/chatbot,T,0,Maven,86,22,2017-05-08 11:32:09 UTC,2018-05-12 01:35:23 UTC,F,F,T,T,T,F,F,F,T,F,F,T,233,33093,32860,NA,NA,NA
+dcrosbie/BHCC_Game,NA,NA,NA,0,2,2015-10-12 15:49:39 UTC,2015-12-18 13:50:07 UTC,T,F,F,F,F,F,F,F,T,T,F,F,46,46,0,NA,NA,NA
+deanjin/houseHunter,F,1,Maven,10,4,2016-06-23 16:52:14 UTC,2017-01-25 16:14:57 UTC,F,F,F,F,T,F,F,F,T,F,F,F,55,63,8,Java compilation,MojoFailure:maven-compiler-plugin,Source option 5 is no longer supported. Use 6 or later.
+denysvitali/optitravel,F,1,Gradle,5,1,2018-03-02 14:57:20 UTC,2018-06-12 20:37:29 UTC,F,F,T,F,F,F,F,F,T,F,F,F,384,400,16,Java compilation,CompilationFailed,package javafx.scene does not exist
+devnull-tools/logspitter,F,1,Maven,1,1,2014-12-23 11:31:08 UTC,2018-01-25 13:24:54 UTC,F,F,F,F,T,F,F,F,T,F,F,F,37,216,179,documentation generation,MojoExecution:maven-javadoc-plugin,NA
+deyvidandrades/SGC,NA,NA,NA,0,1,2019-05-06 17:58:54 UTC,2019-06-28 21:58:04 UTC,F,F,F,F,F,F,F,F,T,F,F,F,67,67,0,NA,NA,NA
+dfire-datacenter/hive-udf,F,1,Maven,0,1,2019-01-02 10:57:08 UTC,2019-01-02 11:10:35 UTC,T,F,F,F,T,F,F,F,T,F,F,F,62,62,0,dependencies,DependencyResolution,NA
+dhiralpandya/AlgorithmRecipe,T,0,Maven,1,2,2019-07-05 23:39:51 UTC,2020-07-19 16:17:38 UTC,F,F,F,F,T,F,F,F,T,F,F,F,438,881,443,NA,NA,NA
+dick-the-deployer/dick,F,1,Maven,6,2,2015-12-09 17:40:26 UTC,2016-06-04 14:00:36 UTC,F,F,F,T,T,F,F,F,T,F,T,T,326,34170,33844,other build tool integration,MojoFailure:frontend-maven-plugin,NA
+dima-fedotovs/uconverter,T,0,Maven,0,11,2017-03-28 10:17:16 UTC,2017-03-30 12:54:07 UTC,F,F,F,F,T,F,F,F,T,F,F,F,51,112,61,NA,NA,NA
+dmagda/ignite_world_demo,F,1,Maven,16,6,2017-09-01 02:27:05 UTC,2017-11-15 23:28:30 UTC,F,F,F,F,T,F,F,F,T,F,F,F,20,28,8,Java compilation,MojoFailure:maven-compiler-plugin,Source option 5 is no longer supported. Use 6 or later.
+dmcg/fakir,F,1,Maven,21,2,2015-04-30 21:39:39 UTC,2019-11-11 12:21:09 UTC,F,F,F,F,T,F,F,F,T,F,F,F,46,238,192,documentation generation,MojoExecution:maven-javadoc-plugin,NA
+doctor-g/ggj17,T,0,Maven,1,2,2017-01-21 01:34:26 UTC,2017-01-22 20:26:17 UTC,F,F,F,F,T,F,F,F,T,F,T,F,507,863,356,NA,NA,NA
+draptik/angulardemorestful,NA,NA,NA,248,227,2013-07-14 13:51:52 UTC,2015-07-04 05:15:04 UTC,F,F,F,F,T,F,F,F,T,F,F,F,230,230,0,NA,NA,NA
+dubrousky/javastruct,F,1,Maven,24,7,2015-09-28 09:06:46 UTC,2020-02-07 13:52:50 UTC,F,F,F,F,T,F,F,F,T,F,T,F,65,77,12,Java compilation,MojoFailure:maven-compiler-plugin,package org.apache.mina.common does not exist
+duraes-antonio/rfidmarket_POO1,T,0,Ant,0,2,2018-05-16 17:32:59 UTC,2018-06-29 18:08:10 UTC,T,F,F,F,F,F,F,F,T,T,F,F,103,159,56,NA,NA,NA
+dynodao/dynodao,F,1,Maven,5,1,2019-01-08 03:01:30 UTC,2019-07-02 16:17:27 UTC,F,F,F,F,T,F,F,F,T,F,T,F,326,330,4,Java compilation,MojoExecution:maven-compiler-plugin,java.lang.ExceptionInInitializerError: com.sun.tools.javac.code.TypeTags
+echocat/adam,T,0,Maven,12,16,2014-03-21 15:24:47 UTC,2020-05-11 07:13:04 UTC,F,F,F,F,T,F,F,F,T,F,F,F,239,7446,7207,NA,NA,NA
+edagarli/Nicole,F,1,Maven,11,3,2016-01-22 03:13:48 UTC,2019-01-20 08:07:47 UTC,F,F,F,F,T,F,F,F,T,F,F,F,86,86,0,dependencies,DependencyResolution,NA
+efe-blue/SwanSupportPlugin,NA,NA,NA,5,1,2019-05-15 11:49:38 UTC,2019-05-30 06:49:14 UTC,F,F,F,F,F,F,F,F,T,F,F,F,137,137,0,NA,NA,NA
+egek92/SearchOverflow-IntelliJ,NA,NA,NA,21,2,2018-03-24 20:21:26 UTC,2018-03-24 20:58:48 UTC,F,F,F,F,F,F,F,F,T,F,F,F,22,22,0,NA,NA,NA
+eiabea/LearningJavaTheStudentWay,NA,NA,NA,0,1,2015-01-24 21:33:52 UTC,2015-01-26 15:08:15 UTC,F,F,F,F,F,F,F,F,T,F,F,F,13,13,0,NA,NA,NA
+emese-meder/Engineering50-Final-Project,F,1,Maven,0,7,2020-02-24 09:39:07 UTC,2020-02-28 12:28:55 UTC,F,F,F,F,T,F,F,F,T,F,F,F,101,109,8,Java compilation,MojoExecution:maven-compiler-plugin,invalid target release: 13
+ericeschnei/cmos,NA,NA,NA,0,1,2018-08-27 20:31:21 UTC,2018-09-24 02:16:52 UTC,F,F,F,F,F,F,F,F,T,F,F,F,74,74,0,NA,NA,NA
+etarnovskaya/Scheduler19,NA,NA,NA,0,1,2019-06-20 17:20:33 UTC,2019-06-27 17:49:00 UTC,F,F,T,F,F,F,F,F,T,F,F,F,55,55,0,NA,NA,NA
+ethauvin/HttpStatus,T,0,Gradle,0,1,2015-12-04 04:20:49 UTC,2020-03-23 04:56:30 UTC,F,F,T,F,F,F,F,F,T,F,T,F,60,188,128,NA,NA,NA
+everXu/beanmock,F,1,Gradle,1,1,2018-03-18 03:12:50 UTC,2018-03-24 15:21:08 UTC,F,F,T,F,F,F,F,F,T,F,F,F,36,52,16,Java compilation,CompilationFailed,package javax.annotation does not exist
+ewestfal/rice-svn2git-test,F,1,Maven,0,6,2014-07-19 18:36:53 UTC,2016-03-08 23:43:22 UTC,T,F,F,F,T,F,F,T,T,F,F,F,15810,15827,17,Java compilation,MojoFailure:maven-compiler-plugin,package javax.xml.bind.annotation does not exist
+exbin/bined-intellij-plugin,NA,NA,NA,25,5,2016-12-10 22:44:49 UTC,2020-05-02 15:02:56 UTC,F,F,F,F,F,F,F,F,T,F,F,F,410,410,0,NA,NA,NA
+feng-zhe/SJTU_graduate_work,NA,NA,NA,0,1,2015-03-28 03:59:33 UTC,2015-05-11 14:25:19 UTC,F,F,F,F,F,F,F,F,T,F,F,F,141,141,0,NA,NA,NA
+fengtaogogo/javaPractice,NA,NA,NA,0,2,2018-04-24 04:49:21 UTC,2018-05-16 02:44:41 UTC,F,F,F,F,T,F,F,T,T,F,F,F,1571,1571,0,NA,NA,NA
+fishnal/Goodbye-World-HackUMBC-2017,NA,NA,NA,0,2,2017-10-08 03:26:28 UTC,2017-10-08 17:15:13 UTC,F,F,F,F,F,F,F,T,T,F,F,F,55,55,0,NA,NA,NA
+fjalvingh/domui-skeleton,F,1,Maven,0,2,2018-11-01 19:42:40 UTC,2020-07-01 22:00:20 UTC,F,F,F,F,T,F,F,F,T,F,F,T,93,93,0,configuration,ProjectBuilding,NA
+flamhaze5946/DHTSpider,F,1,Maven,19,13,2015-10-05 15:48:40 UTC,2017-04-05 08:29:11 UTC,F,F,F,F,T,F,F,F,T,F,F,F,32,40,8,Java compilation,MojoFailure:maven-compiler-plugin,Source option 5 is no longer supported. Use 6 or later.
+flink-ci/test-environment,T,0,Maven,0,1,2019-08-02 08:56:53 UTC,2020-04-29 13:59:24 UTC,F,F,F,T,T,F,F,F,T,F,T,T,17736,122802,105066,NA,NA,NA
+fluxroot/pulse,T,0,Maven,41,27,2013-06-28 18:52:06 UTC,2020-06-21 22:08:30 UTC,F,F,F,F,T,F,F,F,T,F,F,F,131,295,164,NA,NA,NA
+fly-bytes/framework,T,0,Maven,5,3,2018-12-28 12:21:05 UTC,2019-03-23 02:48:05 UTC,F,F,F,F,T,F,F,F,T,F,F,F,53,115,62,NA,NA,NA
+fqtransforma/UABC-2020-1-Juego-de-Mesa,NA,NA,NA,0,1,2020-05-08 18:21:19 UTC,2020-06-30 15:24:24 UTC,F,F,F,F,F,F,F,F,T,F,F,F,1179,1179,0,NA,NA,NA
+frankzye1/ROSASHadoop,NA,NA,NA,1,2,2015-07-03 01:30:15 UTC,2018-11-29 07:13:44 UTC,F,F,F,F,T,F,F,F,T,F,F,F,225,225,0,NA,NA,NA
+fredokun/yaw,NA,NA,NA,5,11,2016-01-18 13:18:56 UTC,2020-02-04 13:17:45 UTC,F,F,F,F,F,F,F,F,T,F,F,F,126,126,0,NA,NA,NA
+ftsrg/mondo-codemodel,F,1,Maven,1,1,2014-10-02 12:25:18 UTC,2014-10-21 12:14:18 UTC,F,F,F,F,T,F,F,T,T,F,F,F,53,53,0,dependencies,DependencyResolution,NA
+galliva/SNSN,NA,NA,NA,7,1,2013-11-18 15:18:18 UTC,2014-05-21 12:09:15 UTC,F,F,F,F,F,F,F,T,T,F,F,F,31,31,0,NA,NA,NA
+galperie/twu-biblioteca-EllenAndAkon,NA,NA,NA,0,6,2015-06-16 18:35:49 UTC,2015-06-17 18:22:37 UTC,F,F,F,F,F,F,F,F,T,F,F,F,19,19,0,NA,NA,NA
+garystafford/microservice-docker-demo-widget,F,1,Gradle,6,6,2016-07-04 15:39:05 UTC,2017-04-23 03:15:16 UTC,F,F,T,F,F,F,F,F,T,F,T,F,62,63,1,configuration,DuplicateTask,NA
+garystafford/voter-service,F,1,Gradle,38,29,2016-11-12 20:43:43 UTC,2018-05-04 19:10:24 UTC,F,F,T,F,F,F,F,F,T,F,T,F,55,56,1,configuration,DuplicateTask,NA
+giamir/twu-biblioteca-giamir,F,1,Gradle,0,2,2016-05-18 15:49:40 UTC,2016-06-15 16:09:19 UTC,F,F,T,F,F,F,F,F,T,F,T,F,66,67,1,build files parsing/interpretation,GroovyRuntime,NA
+gjhutchison/pixelhorrorjam2016,F,1,Gradle,5,2,2016-08-29 05:28:32 UTC,2016-10-30 17:39:47 UTC,F,F,T,F,F,F,F,F,T,F,F,F,242,242,0,build files parsing/interpretation,MissingProperty,NA
+glehu/MP-ANNE,NA,NA,NA,1,1,2018-01-02 01:03:03 UTC,2018-02-13 14:37:09 UTC,F,F,F,F,F,F,F,F,T,F,F,F,14,14,0,NA,NA,NA
+gocd/gocd-ldap-authorization-plugin,T,0,Gradle,0,1,2020-05-28 10:26:11 UTC,2020-06-08 19:10:56 UTC,F,F,T,F,F,F,F,F,T,F,F,F,212,355,143,NA,NA,NA
+googlecodelabs/recaptcha-codelab,NA,NA,NA,10,18,2017-05-09 22:48:05 UTC,2019-04-05 16:27:31 UTC,F,F,F,F,T,F,F,F,T,F,F,F,47,47,0,NA,NA,NA
+gornplengs/INFO6205_102,T,0,Maven,0,1,2019-11-14 21:38:16 UTC,2019-12-08 04:48:03 UTC,F,F,F,F,T,F,F,F,T,F,F,F,222,221,17,NA,NA,NA
+groboclown/p4ic4idea,F,1,Gradle,32,10,2015-02-03 18:51:06 UTC,2020-06-08 22:49:55 UTC,F,F,T,F,T,F,F,T,T,F,F,F,8005,8090,85,dependencies,ArtifactResolve,NA
+gsmoffln/objektinis,NA,NA,NA,0,8,2018-06-17 04:27:23 UTC,2018-09-22 17:33:19 UTC,F,F,F,F,F,F,F,F,T,F,F,F,49,49,0,NA,NA,NA
+gsvarma/Fact_Checker,T,0,Maven,2,1,2017-10-17 15:26:24 UTC,2018-07-03 13:27:21 UTC,F,F,F,F,T,F,F,F,T,F,T,F,3899,3927,28,NA,NA,NA
+guoyu07/Triplogic-API,F,1,Maven,0,1,2018-03-05 08:32:47 UTC,2018-02-25 08:54:40 UTC,F,F,F,F,T,F,F,F,T,F,F,F,161,186,25,Java compilation,MojoFailure:maven-compiler-plugin,cannot find symbol
+h2r/burlapcraft,F,1,Gradle,35,8,2015-06-02 22:16:34 UTC,2016-06-20 07:07:43 UTC,F,F,T,F,F,F,F,F,T,F,F,F,118,121,3,build files parsing/interpretation,PluginApplication:forge,NA
+hackeryang/SwordToOffer,NA,NA,NA,49,20,2018-09-21 03:55:32 UTC,2019-07-07 14:44:11 UTC,F,F,F,F,F,F,F,F,T,F,F,F,72,72,0,NA,NA,NA
+hackhu2019/offer,T,0,Maven,81,28,2019-08-15 09:24:24 UTC,2020-03-14 03:30:35 UTC,F,F,F,F,T,F,F,F,T,F,F,F,79,167,88,NA,NA,NA
+haizicq/osframe,F,1,Maven,11,6,2016-06-16 06:40:53 UTC,2016-06-16 06:49:56 UTC,F,F,F,F,T,F,F,F,T,F,F,F,814,814,0,dependencies,DependencyResolution,NA
+hamoid/video_export_processing,NA,NA,NA,65,11,2015-01-25 12:52:51 UTC,2018-05-21 20:20:49 UTC,T,F,F,F,F,F,F,T,T,F,F,F,59,59,0,NA,NA,NA
+haquangtan84/dtw,T,0,Maven,0,1,2013-08-27 22:21:56 UTC,2014-06-24 06:51:58 UTC,F,F,F,F,T,F,F,T,T,F,F,F,7148,7156,8,NA,NA,NA
+harry0198/InfoHeads-mvn,F,1,Maven,3,2,2019-05-04 15:16:00 UTC,2020-06-09 08:58:32 UTC,F,F,F,F,T,F,F,F,T,F,F,F,83,89,11,Java compilation,MojoFailure:maven-compiler-plugin,no suitable constructor found for ItemBuilder(java.util.Optional<org.bukkit.Material>)
+hash-X/FlatBuffer,F,1,Maven,1,1,2015-09-13 15:43:25 UTC,2015-12-05 11:08:46 UTC,F,F,F,F,T,F,F,F,T,F,F,F,76,86,10,Java compilation,MojoFailure:maven-compiler-plugin,package com.google.protobuf does not exist
+hbritto/olympicsUmbrella,NA,NA,NA,0,1,2016-11-26 18:26:06 UTC,2016-12-11 01:46:04 UTC,F,F,F,F,F,F,F,F,T,F,F,F,20,20,0,NA,NA,NA
+heirteir/AutoEye,NA,NA,NA,15,9,2018-04-19 21:38:21 UTC,2018-10-15 15:56:47 UTC,F,F,F,F,T,F,F,F,T,F,F,F,143,143,0,NA,NA,NA
+henjue/vue-for-idea,NA,NA,NA,320,44,2015-12-25 12:49:30 UTC,2017-05-13 07:01:39 UTC,F,F,F,F,F,F,F,F,T,F,T,F,103,103,0,NA,NA,NA
+hflicka/ecg-dsp-tool,NA,NA,NA,0,3,2014-03-13 09:57:26 UTC,2014-03-13 18:42:20 UTC,F,F,F,F,F,F,F,F,T,F,F,F,36,36,0,NA,NA,NA
+hfut-dmic-spidertools/spidergirls,NA,NA,NA,3,5,2015-10-10 14:28:51 UTC,2015-10-26 00:42:01 UTC,F,F,F,F,T,F,F,F,T,F,F,F,33,33,0,NA,NA,NA
+hgao3/Trio,T,0,Maven,1,3,2018-05-28 14:01:09 UTC,2018-08-02 18:06:10 UTC,F,F,F,T,T,F,F,F,T,F,F,T,168,27399,27231,NA,NA,NA
+hivemq/hivemq-community-edition,F,1,Gradle,426,115,2019-04-01 15:29:54 UTC,2020-07-17 18:20:27 UTC,F,F,T,F,F,F,F,F,T,F,T,F,1758,2702,944,Java compilation,CompilationFailed,method does not override or implement a method from a supertype
+hivemq/hivemq-extension-sdk,NA,NA,NA,9,1,2018-12-10 17:07:56 UTC,2020-07-20 15:30:57 UTC,F,F,F,F,F,F,F,F,T,F,F,F,314,314,0,NA,NA,NA
+hivemq/hivemq-mqtt-client,NA,NA,NA,317,63,2018-01-02 21:15:55 UTC,2020-07-07 20:55:36 UTC,F,F,F,F,F,F,F,F,T,F,T,F,980,980,0,NA,NA,NA
+holisticon/web-security-sample,F,1,Maven,6,3,2016-07-13 16:26:24 UTC,2020-07-01 18:53:31 UTC,F,F,F,T,T,F,F,F,T,F,T,T,197,43080,42883,other build tool integration,MojoFailure:frontend-maven-plugin,NA
+hortonworks/streamline,T,0,Maven,147,94,2015-05-14 17:56:13 UTC,2020-07-20 08:59:17 UTC,T,F,F,T,T,F,F,T,T,F,T,T,2183,42595,40412,NA,NA,NA
+humingfeng/BigOnlineShopping,NA,NA,NA,2,1,2018-05-05 15:12:42 UTC,2020-07-01 19:48:21 UTC,T,F,F,F,T,F,F,F,T,F,F,F,1533,1533,0,NA,NA,NA
+icesphere/battle-tech-domination,T,0,Maven,1,1,2016-02-07 01:13:57 UTC,2016-10-08 17:22:06 UTC,F,F,F,F,T,F,F,F,T,F,F,F,436,1170,734,NA,NA,NA
+icesphere/star-realms-simulator,NA,NA,NA,10,5,2015-11-12 13:45:10 UTC,2016-12-14 13:51:43 UTC,F,F,F,F,F,F,F,F,T,F,F,F,241,241,0,NA,NA,NA
+iorga-group/debattons,T,0,Maven,9,5,2017-07-11 16:16:09 UTC,2020-06-06 14:30:41 UTC,F,F,F,T,T,F,F,F,T,F,F,T,600,80306,79706,NA,NA,NA
+irinaf/java_tmp,NA,NA,NA,0,1,2016-02-22 10:00:52 UTC,2016-04-06 11:33:46 UTC,F,F,T,F,F,F,F,F,T,F,F,F,87,87,0,NA,NA,NA
+isdiegoalves/flatpack-beanio,T,0,Maven,2,1,2018-10-23 18:03:33 UTC,2018-10-23 18:05:37 UTC,F,F,F,F,T,F,F,F,T,F,T,F,309,531,222,NA,NA,NA
+iservport/helianto,F,1,Maven,0,1,2015-10-22 13:21:25 UTC,2020-06-18 15:52:26 UTC,F,F,F,F,T,F,F,T,T,F,F,F,596,596,0,dependencies,DependencyResolution,NA
+iterate-ch/cyberduck,F,1,Maven,877,100,2017-01-20 14:16:34 UTC,2020-07-23 04:17:57 UTC,T,F,F,T,T,F,F,F,T,F,T,F,6930,15864,8934,other build tool integration,MojoExecution:maven-antrun-plugin,NA
+jakuubkoo/JDABotBase,T,0,Maven,4,1,2020-05-18 10:52:24 UTC,2020-05-18 12:35:22 UTC,F,F,F,F,T,F,F,F,T,F,F,F,31,42,13,NA,NA,NA
+jamesluozhiwei/face-search,NA,NA,NA,2,1,2019-12-07 09:27:06 UTC,2020-01-28 23:13:35 UTC,F,F,F,F,T,F,F,F,T,F,F,F,85,85,0,NA,NA,NA
+jaycekon/Spring-Blog,F,1,Gradle,31,11,2018-01-09 10:00:58 UTC,2018-01-23 14:18:33 UTC,F,F,T,F,F,F,F,F,T,F,F,F,175,303,128,Java compilation,CompilationFailed,unmappable character (0xE6) for encoding US-ASCII
+jenkinsci/composer-dependency-analysis-plugin,F,1,Maven,0,2,2016-09-28 21:04:30 UTC,2016-09-09 13:42:35 UTC,F,F,F,F,T,F,F,F,T,F,F,F,246,277,31,Java compilation,MojoFailure:maven-compiler-plugin,package javax.xml.bind.annotation does not exist
+jenkinsci/http-request-plugin,F,1,Maven,115,122,2012-11-07 08:03:37 UTC,2020-04-16 18:22:06 UTC,F,F,F,F,T,F,F,F,T,F,F,F,113,171,58,Java compilation,MojoFailure:maven-compiler-plugin,java.nio.file.NoSuchFileException: /tmp/build/jenkinsci_http-request-plugin/target/classes/META-INF/annotations/hudson.Extension
+jenkinsci/testdroid-run-in-cloud-plugin,F,1,Maven,0,18,2016-01-20 13:04:26 UTC,2020-07-16 07:49:20 UTC,F,F,F,F,T,F,F,F,T,F,F,F,72,130,58,Java compilation,MojoFailure:maven-compiler-plugin,java.nio.file.NoSuchFileException: /tmp/build/jenkinsci_testdroid-run-in-cloud-plugin/target/classes/META-INF/annotations/hudson.Extension
+jenkinsci/ws-execution-manager-plugin,F,1,Gradle,0,1,2018-12-03 17:07:29 UTC,2019-08-16 10:56:21 UTC,F,F,T,F,F,F,F,F,T,F,F,F,93,94,1,other build tool integration,PluginApplication:jpi,NA
+jeongsunlee/designPattern,NA,NA,NA,0,1,2017-02-05 12:11:17 UTC,2017-02-06 03:07:46 UTC,F,F,F,F,F,F,F,F,T,F,F,F,29,29,0,NA,NA,NA
+jerkar/jeka,T,0,Ant,50,7,2015-04-11 09:21:57 UTC,2020-06-30 18:34:48 UTC,T,F,F,F,F,F,F,T,T,F,T,F,549,871,322,NA,NA,NA
+jerkar/springboot-plugin,NA,NA,NA,1,1,2015-11-09 18:21:14 UTC,2020-06-30 11:31:12 UTC,F,F,F,F,F,F,F,T,T,F,T,F,67,67,0,NA,NA,NA
+jianlins/RuSH,F,1,Maven,0,2,2016-11-21 03:46:53 UTC,2020-02-16 06:16:13 UTC,F,F,F,F,T,F,F,F,T,F,F,F,61,61,0,dependencies,DependencyResolution,NA
+jingea/JvmArgsGenerate,NA,NA,NA,1,3,2017-06-23 09:46:49 UTC,2017-06-30 10:33:48 UTC,F,F,T,F,T,F,F,F,T,F,F,F,117,117,0,NA,NA,NA
+jinxinchen/uploadAndDownload,T,0,Maven,1,1,2017-09-18 11:50:57 UTC,2017-09-18 11:56:52 UTC,F,F,F,F,T,F,F,F,T,F,F,F,74,154,86,NA,NA,NA
+jkremlacek/Merlin,NA,NA,NA,0,2,2017-04-07 07:02:31 UTC,2019-05-31 11:05:40 UTC,F,F,F,F,F,F,F,F,T,F,F,F,34,34,0,NA,NA,NA
+jmrozanec/cron-utils-scheduler,F,1,Maven,5,2,2017-05-20 19:45:09 UTC,2017-05-23 17:37:22 UTC,F,F,F,F,T,F,F,F,T,F,F,F,18,40,22,uncategorized,MojoExecution:retrolambda-maven-plugin,NA
+jorisrietveld/NHLStenden_Modules_Java1_2_3,NA,NA,NA,0,2,2017-10-06 06:59:40 UTC,2018-12-28 23:04:15 UTC,F,F,F,F,F,F,F,F,T,F,F,F,1111,1111,0,NA,NA,NA
+joschahenningsen/TchiboHack,NA,NA,NA,0,1,2019-03-21 16:28:52 UTC,2019-03-23 14:03:00 UTC,F,F,F,F,F,F,F,F,T,F,F,F,103,103,0,NA,NA,NA
+josesamuel/logviewer,NA,NA,NA,27,7,2017-09-09 05:15:41 UTC,2019-08-28 17:43:46 UTC,F,F,F,F,F,F,F,F,T,F,F,F,77,77,0,NA,NA,NA
+joshden/JUnit4IntelliJ,NA,NA,NA,0,3,2017-01-17 00:28:48 UTC,2017-01-17 00:52:55 UTC,F,F,F,F,F,F,F,F,T,F,F,F,15,15,0,NA,NA,NA
+joshlong/selfies,T,0,Maven,1,1,2015-05-24 10:44:54 UTC,2015-05-24 16:37:02 UTC,F,F,F,F,T,F,F,F,T,F,F,F,21,55,34,NA,NA,NA
+jpvelsamy/sparrow,F,1,Maven,0,3,2017-02-02 16:19:50 UTC,2019-01-28 09:47:15 UTC,F,F,F,F,T,F,F,T,T,F,F,F,495,495,0,uncategorized,Internal,NA
+ju5t1nhhh/personspringclouddemo,F,1,Maven,2,1,2017-10-20 01:52:21 UTC,2017-10-23 13:35:54 UTC,F,F,F,F,T,F,F,F,T,F,F,F,82,82,0,configuration,ProjectBuilding,NA
+jugsaar/jugsaar-47-java-after-x,NA,NA,NA,0,1,2019-07-20 08:39:29 UTC,2019-07-31 07:02:15 UTC,F,F,F,F,T,F,F,F,T,F,F,F,52,52,0,NA,NA,NA
+julioapm/ProgramacaoOO_2018_2,NA,NA,NA,2,1,2018-08-15 02:00:28 UTC,2018-11-27 00:41:50 UTC,F,F,F,F,F,F,F,F,T,F,F,F,266,266,0,NA,NA,NA
+juutas/rakotulkki,F,1,Maven,0,1,2015-02-01 13:13:12 UTC,2015-05-24 04:59:20 UTC,F,F,T,T,T,F,F,F,T,F,F,T,153,34648,34495,other build tool integration,MojoFailure:frontend-maven-plugin,NA
+kayler-renslow/arma-intellij-plugin,NA,NA,NA,41,7,2016-01-01 18:05:49 UTC,2019-01-13 04:08:19 UTC,F,F,F,F,F,F,F,F,T,F,F,F,381,381,0,NA,NA,NA
+kenrui-group/packetbroker,F,1,Maven,6,4,2018-04-21 17:56:56 UTC,2018-06-24 05:07:47 UTC,F,F,F,F,T,F,F,F,T,F,F,F,86,111,25,Java compilation,MojoFailure:maven-compiler-plugin,package javax.annotation does not exist
+kesavany/scim-prov,F,1,Maven,0,1,2018-04-11 05:55:23 UTC,2018-04-11 07:02:40 UTC,F,F,F,F,T,F,F,F,T,F,F,F,148,84,0,uncategorized,PluginExecution:maven-scr-plugin,NA
+kiastu/TrueInsight,F,1,Maven,0,4,2015-05-09 03:13:45 UTC,2015-05-10 19:19:51 UTC,T,F,F,F,T,F,F,T,T,F,F,F,267,111,2,Java compilation,MojoFailure:maven-compiler-plugin,package com.google.gson.annotations does not exist
+kiliczsh/cse3063f17p1_mkilic_obayraktar_masakalli,NA,NA,NA,2,1,2017-10-19 20:56:51 UTC,2018-01-04 15:21:00 UTC,F,F,F,F,F,F,F,T,T,F,F,F,61,61,0,NA,NA,NA
+killbill/killbill,F,1,Maven,2124,518,2012-10-21 20:55:05 UTC,2020-07-18 05:10:39 UTC,F,F,F,F,T,F,F,F,T,F,F,F,2622,3772,1150,Java compilation,MojoFailure:maven-compiler-plugin,bootstrap class path not set in conjunction with -source 8
+killbill/killbill-dwolla-plugin,F,1,Maven,0,1,2016-08-10 17:46:15 UTC,2017-04-25 13:48:28 UTC,F,F,F,F,T,F,F,F,T,F,T,F,75,75,0,dependencies,DependencyResolution,NA
+killbill/killbill-payeezy-plugin,F,1,Maven,0,1,2016-08-26 01:22:51 UTC,2016-09-09 03:08:17 UTC,F,F,F,F,T,F,F,F,T,F,T,F,59,71,12,Java compilation,MojoFailure:maven-compiler-plugin,"To suppress warnings about obsolete options, use -Xlint:-options."
+killbill/killbill-plugin-api,T,0,Maven,3,15,2013-06-14 12:49:06 UTC,2020-02-06 18:56:34 UTC,F,F,F,F,T,F,F,F,T,F,F,F,136,321,185,NA,NA,NA
+kirikprotocol/RSM,F,1,Gradle,2,2,2018-02-21 07:14:35 UTC,2018-06-09 08:27:34 UTC,F,F,T,F,F,F,F,F,T,F,F,F,71,72,1,build files parsing/interpretation,MissingProperty,NA
+kirkwood-cis-171-master/Ellio,NA,NA,NA,0,1,2018-04-20 04:30:12 UTC,2018-04-20 04:30:46 UTC,F,F,F,F,F,F,F,T,T,F,F,F,68,68,0,NA,NA,NA
+kirkwood-cis-171/Ellio,NA,NA,NA,0,1,2017-04-05 12:53:58 UTC,2017-04-05 12:55:01 UTC,F,F,F,F,F,F,F,T,T,F,F,F,68,68,0,NA,NA,NA
+kmahyyg/mremoteng-decrypt,NA,NA,NA,41,9,2019-05-11 09:09:49 UTC,2019-08-02 06:34:49 UTC,F,F,F,F,F,F,F,F,T,F,F,F,15,15,0,NA,NA,NA
+krasa/krasa-jaxb-tools-example,F,1,Maven,3,6,2013-03-13 18:31:42 UTC,2017-11-01 12:09:15 UTC,F,F,F,F,T,F,F,F,T,F,F,F,130,194,64,Java compilation,MojoFailure:maven-compiler-plugin,package javax.xml.bind.annotation does not exist
+krixano/worldcraft,F,1,Gradle,5,1,2015-09-21 20:35:45 UTC,2018-05-11 17:25:30 UTC,F,F,T,F,F,F,F,F,T,F,F,F,93,93,0,build files parsing/interpretation,CustomMessageMissingMethod,NA
+kyrptonaught/DiggusMaximus,T,0,Gradle,3,2,2019-09-11 01:32:54 UTC,2020-07-09 01:24:15 UTC,F,F,T,F,F,F,F,F,T,F,F,F,45,101,56,NA,NA,NA
+lamfire/hydra,F,1,Maven,3,5,2013-12-17 06:10:08 UTC,2015-04-25 08:24:28 UTC,F,F,F,F,T,F,F,F,T,F,F,F,83,83,0,dependencies,DependencyResolution,NA
+lancelothk/BSPAT,NA,NA,NA,1,1,2013-11-23 04:32:45 UTC,2018-09-14 05:25:14 UTC,F,F,T,F,F,F,F,F,T,F,F,F,360,360,0,NA,NA,NA
+lassana/webometrics-parser,NA,NA,NA,3,1,2016-02-03 11:00:33 UTC,2016-03-22 13:08:58 UTC,F,F,F,F,F,F,F,F,T,F,F,F,17,17,0,NA,NA,NA
+lastaflute/lastaflute-example-harbor,T,0,Maven,5,4,2015-09-25 10:40:08 UTC,2020-06-18 05:45:43 UTC,F,F,F,F,T,F,F,T,T,F,F,F,892,4162,3270,NA,NA,NA
+lastaflute/lastaflute-example-waterfront,T,0,Maven,1,4,2015-11-08 04:03:34 UTC,2020-07-02 04:03:02 UTC,F,F,F,F,T,F,F,T,T,F,T,F,865,5001,4136,NA,NA,NA
+latraccia/sd-dss-util,F,1,Maven,7,2,2013-12-07 12:48:13 UTC,2016-03-04 12:33:49 UTC,F,F,F,F,T,F,F,F,T,F,T,T,158,158,0,dependencies,DependencyResolution,NA
+leon66666/spring-frameset,F,1,Maven,11,8,2017-11-01 08:32:18 UTC,2018-04-12 10:19:09 UTC,F,F,F,F,T,F,F,F,T,F,F,F,442,442,0,dependencies,DependencyResolution,NA
+lequal/sonar-cnes-report,T,0,Maven,112,52,2018-01-04 16:43:16 UTC,2020-07-16 12:15:54 UTC,F,F,F,T,T,F,F,F,T,F,T,F,162,20794,20632,NA,NA,NA
+letcheng/BloomFilter,T,0,Maven,16,10,2016-02-24 09:19:42 UTC,2016-07-10 15:23:16 UTC,F,F,F,F,T,F,F,F,T,F,T,F,34,53,19,NA,NA,NA
+llarreta/larretasources,NA,NA,NA,0,1,2015-12-09 13:38:49 UTC,2017-09-08 23:46:28 UTC,F,F,F,T,T,F,F,T,T,F,F,T,15888,15888,0,NA,NA,NA
+loglim/snakeMP,F,1,Maven,0,1,2018-12-29 21:47:30 UTC,2019-01-07 16:28:03 UTC,F,F,F,F,T,F,F,F,T,F,F,F,103,164,61,Java compilation,MojoFailure:maven-compiler-plugin,package javafx.scene.canvas does not exist
+lqc520/mall,F,1,Maven,10,2,2019-01-09 00:46:52 UTC,2020-07-01 22:24:35 UTC,F,F,F,F,T,F,F,T,T,F,F,F,1977,1933,8,Java compilation,MojoFailure:maven-compiler-plugin,unmappable character (0xE5) for encoding US-ASCII
+lukakralj/Tetris,NA,NA,NA,0,1,2018-05-29 15:12:20 UTC,2019-01-16 01:17:21 UTC,F,F,F,F,F,F,F,F,T,F,F,F,26,26,0,NA,NA,NA
+luontola/text-adventure,T,0,Maven,4,4,2010-11-15 02:18:45 UTC,2010-11-28 13:50:36 UTC,F,F,F,F,T,F,F,F,T,F,F,F,33,66,33,NA,NA,NA
+lusavova/NinjaDefense,NA,NA,NA,0,3,2018-04-30 10:18:10 UTC,2019-04-24 07:37:40 UTC,F,F,F,F,F,F,F,F,T,F,F,F,87,87,0,NA,NA,NA
+lxcao/UAES-GWM-C30-DEMO,F,1,Gradle,0,1,2018-11-21 05:34:28 UTC,2018-12-04 12:35:49 UTC,F,F,T,F,F,F,F,F,T,F,F,F,318,354,36,Java compilation,CompilationFailed,unmappable character (0xE6) for encoding US-ASCII
+lyjacky11/GraphingCalc,NA,NA,NA,0,1,2018-06-06 14:36:15 UTC,2020-01-22 20:36:29 UTC,F,F,F,F,F,F,F,F,T,F,F,F,21,21,0,NA,NA,NA
+magmaOffenburg/magmaChallenge,T,0,Ant,5,2,2015-03-03 09:18:07 UTC,2020-01-16 17:07:05 UTC,T,F,F,F,F,F,F,T,T,F,T,F,128,128,0,NA,NA,NA
+manabreak/libclicker2,T,0,Gradle,8,1,2016-12-25 10:43:20 UTC,2016-12-25 17:14:13 UTC,F,F,T,F,F,F,F,F,T,F,F,F,54,110,56,NA,NA,NA
+manuel3108/Gleisbelegung-Archive,NA,NA,NA,2,2,2017-08-03 15:31:32 UTC,2018-12-08 19:27:10 UTC,F,F,F,F,F,F,F,F,T,F,F,F,49,49,0,NA,NA,NA
+mapr-demos/mapr-db-json-grafana-plugin,F,1,Maven,2,2,2017-12-18 09:10:10 UTC,2018-05-30 11:01:51 UTC,F,F,F,T,T,F,F,F,T,F,F,T,105,15450,15345,other build tool integration,MojoFailure:frontend-maven-plugin,NA
+martygelev/TelerikJava,NA,NA,NA,0,1,2018-11-07 00:43:49 UTC,2019-06-30 12:22:22 UTC,T,F,T,F,F,F,F,F,T,T,F,T,3086,3086,0,NA,NA,NA
+mattcasters/kettle-beam,F,1,Maven,30,5,2018-10-02 09:07:06 UTC,2020-06-18 16:43:11 UTC,F,F,F,F,T,F,F,F,T,F,F,F,208,208,0,dependencies,UnresolvableModel,NA
+max-trying-java/java,NA,NA,NA,1,1,2018-09-06 17:37:04 UTC,2019-06-03 17:33:34 UTC,F,F,F,F,F,F,F,T,T,F,F,F,39,39,0,NA,NA,NA
+mayl666/rocketmq_chinese,NA,NA,NA,0,1,2017-12-06 07:17:49 UTC,2017-12-06 07:35:41 UTC,F,F,F,F,T,F,F,F,T,F,F,F,1702,1702,0,NA,NA,NA
+mayukh42/java-games,NA,NA,NA,1,3,2016-04-26 21:34:05 UTC,2016-05-26 20:47:08 UTC,F,F,F,F,F,F,F,F,T,F,F,F,34,34,0,NA,NA,NA
+meethadoop/iot-traffic-monitor-master,T,0,Maven,0,1,2018-07-08 20:47:06 UTC,2018-07-08 20:47:10 UTC,F,F,F,F,T,F,F,T,T,F,F,F,121,216,95,NA,NA,NA
+metocks/pb-sol,NA,NA,NA,0,1,2016-04-26 05:00:30 UTC,2016-05-17 10:24:42 UTC,F,F,F,F,F,F,F,F,T,F,F,F,42,42,0,NA,NA,NA
+mhashim6/Simple-ADB,NA,NA,NA,15,10,2016-11-26 12:20:13 UTC,2018-02-04 12:24:46 UTC,F,F,F,F,F,F,F,F,T,F,F,F,38,38,0,NA,NA,NA
+mhisoft/FastCopy,F,1,Maven,39,8,2014-12-01 17:29:29 UTC,2019-04-06 00:47:40 UTC,T,F,F,F,T,F,F,F,T,F,F,F,79,79,0,dependencies,PluginResolution,NA
+micamike/MishSheyGam,NA,NA,NA,0,1,2018-10-15 07:23:07 UTC,2018-10-22 07:56:00 UTC,F,F,T,F,F,F,F,F,T,F,F,F,47,47,0,NA,NA,NA
+microsoft/containers-rest-cosmos-aks-java,NA,NA,NA,6,6,2019-01-21 16:56:44 UTC,2019-02-14 21:18:12 UTC,F,F,F,F,T,F,F,F,T,F,F,F,137,137,0,NA,NA,NA
+mikewanya/CeaserCipher,T,0,Gradle,0,1,2019-04-09 09:30:15 UTC,2019-04-12 14:36:18 UTC,F,F,T,F,F,F,F,F,T,F,F,F,24,53,29,NA,NA,NA
+minhnh94/animesearch,NA,NA,NA,0,1,2014-11-06 02:03:13 UTC,2014-12-25 10:42:03 UTC,F,F,F,F,F,F,F,T,T,F,F,F,63,63,0,NA,NA,NA
+minuk8932/Algorithm_BaekJoon,NA,NA,NA,0,1,2017-03-10 10:36:31 UTC,2020-07-22 10:46:56 UTC,F,F,F,F,F,F,F,T,T,F,F,F,2181,2181,0,NA,NA,NA
+mission-peace/interview,F,1,Gradle,8723,4401,2014-07-20 21:27:31 UTC,2020-07-13 09:02:18 UTC,F,F,T,F,F,F,F,F,T,F,F,F,706,707,1,build files parsing/interpretation,MissingMethod,NA
+mitchmyburgh/HoughCircles,NA,NA,NA,0,1,2016-08-16 21:23:19 UTC,2016-08-17 14:00:18 UTC,F,F,F,F,F,F,F,F,T,F,F,F,93,93,0,NA,NA,NA
+miurahr/omegat-markdown-plugin,F,1,Gradle,14,4,2016-08-22 03:57:57 UTC,2019-03-27 10:47:44 UTC,F,F,T,F,F,F,F,F,T,F,F,F,103,104,1,dependencies,UnknownPlugin,NA
+mmm444/ijphab,NA,NA,NA,8,3,2017-01-02 13:40:18 UTC,2018-01-18 23:43:07 UTC,F,F,F,F,F,F,F,F,T,F,F,F,36,36,0,NA,NA,NA
+mohamedhozayen/PMDI,NA,NA,NA,3,1,2018-02-08 02:12:44 UTC,2019-12-08 02:33:47 UTC,F,F,F,F,F,F,F,F,T,F,F,F,36,36,0,NA,NA,NA
+molgenis/molgenis,T,0,Maven,82,96,2013-02-04 16:02:36 UTC,2020-07-17 10:07:41 UTC,F,F,F,F,T,F,F,F,T,F,T,F,5919,13583,7664,NA,NA,NA
+momer/nutch-selenium,NA,NA,NA,27,18,2014-06-17 21:08:34 UTC,2016-06-09 15:11:12 UTC,T,F,F,F,T,F,T,F,T,F,F,F,40,40,0,NA,NA,NA
+mraible/jhipster6-demo,T,0,Maven,105,61,2019-06-24 03:48:45 UTC,2019-11-02 15:02:30 UTC,F,F,F,T,T,F,F,F,T,F,T,T,655,83455,82800,NA,NA,NA
+mrsheepsheep/Tint-Health,F,1,Maven,4,7,2015-04-26 15:23:37 UTC,2017-07-30 10:03:00 UTC,F,F,F,F,T,F,F,F,T,F,F,F,20,20,0,dependencies,DependencyResolution,NA
+mumucache/mumu-redis,T,0,Maven,0,1,2017-08-26 06:55:06 UTC,2017-11-28 01:50:00 UTC,F,F,F,F,T,F,F,F,T,F,F,F,46,102,56,NA,NA,NA
+mumucommon/mumu-email,T,0,Maven,0,1,2017-08-26 06:14:33 UTC,2017-11-28 02:11:57 UTC,F,F,F,F,T,F,F,F,T,F,T,F,42,93,51,NA,NA,NA
+mumuhadoop/mumu-avro,F,1,Maven,1,2,2017-10-18 01:00:16 UTC,2017-10-18 02:19:48 UTC,F,F,F,F,T,F,F,F,T,F,T,F,37,37,0,uncategorized,MojoExecution:avro-maven-plugin,NA
+mumuhadoop/mumu-mahout,T,0,Maven,11,6,2017-11-10 06:06:34 UTC,2018-06-14 08:28:28 UTC,F,F,F,F,T,F,F,F,T,F,T,F,128,256,128,NA,NA,NA
+mumuhadoop/mumu-spark,F,1,Maven,13,7,2017-11-03 07:50:29 UTC,2020-07-01 20:52:44 UTC,F,F,F,T,T,F,F,F,T,F,T,F,290,290,0,dependencies,DependencyResolution,NA
+natlyrrad/PGR3-Diabetic-Logbook,T,0,Gradle,0,1,2019-11-21 11:00:27 UTC,2020-01-12 23:23:09 UTC,F,F,T,F,F,F,F,F,T,F,F,F,66,188,122,NA,NA,NA
+nbfujx/Goku.Framework.SSO,NA,NA,NA,11,9,2018-01-19 10:39:52 UTC,2018-02-03 14:43:32 UTC,F,F,F,F,T,F,F,F,T,F,F,F,1259,1259,0,NA,NA,NA
+nckk-mc/mimc,NA,NA,NA,10,5,2019-07-29 12:20:25 UTC,2019-08-20 01:18:45 UTC,F,F,F,F,T,F,F,F,T,F,F,F,72,72,0,NA,NA,NA
+nddipiazza/onenote-parser-java,T,0,Gradle,3,1,2019-11-18 02:22:31 UTC,2019-12-04 19:13:44 UTC,F,F,T,F,F,F,F,F,T,F,F,F,78,151,73,NA,NA,NA
+nebhale/mtls-sample,T,0,Maven,17,13,2017-07-19 22:29:47 UTC,2020-06-17 16:08:19 UTC,F,F,F,F,T,F,F,F,T,F,F,F,40,85,45,NA,NA,NA
+necrowman/MyJavaLessons,NA,NA,NA,0,1,2018-03-09 22:33:07 UTC,2020-03-15 10:26:37 UTC,F,F,F,F,F,F,F,F,T,F,F,F,10,10,0,NA,NA,NA
+neko-craft/NekoCore,T,0,Gradle,2,1,2019-08-18 14:46:26 UTC,2020-07-20 15:30:54 UTC,F,F,T,F,F,F,F,F,T,F,F,F,30,69,39,NA,NA,NA
+neopsis/niagara-weather,F,1,Gradle,5,1,2018-12-07 09:12:51 UTC,2020-01-12 20:56:41 UTC,F,F,T,F,F,F,F,F,T,F,F,F,37,37,0,dependencies,Resolve,NA
+newjunwei/resteasy-examplecode,F,1,Maven,0,1,2016-01-20 08:51:25 UTC,2016-01-20 10:14:52 UTC,F,F,F,F,T,F,F,F,T,F,F,F,948,869,6,Java compilation,MojoFailure:maven-compiler-plugin,Source option 5 is no longer supported. Use 6 or later.
+nick-bi/spring-boot,T,0,Maven,0,11,2019-10-12 03:19:57 UTC,2020-07-02 00:55:53 UTC,F,F,F,F,T,F,F,F,T,F,F,F,237,241,4,NA,NA,NA
+nikzadkhani/Syncify,F,1,Maven,0,2,2020-02-07 16:17:42 UTC,2020-04-30 18:50:22 UTC,F,F,F,T,T,F,F,F,T,F,F,T,625,91879,91254,other build tool integration,MojoFailure:frontend-maven-plugin,NA
+nillith/UniPinyin,NA,NA,NA,62,17,2016-07-16 11:39:32 UTC,2016-08-08 11:44:13 UTC,F,F,F,F,F,F,F,F,T,F,F,F,45,45,0,NA,NA,NA
+nmorel/gwt-jackson-rest,F,1,Maven,11,4,2015-03-01 12:55:31 UTC,2017-08-29 17:47:18 UTC,F,F,F,F,T,F,F,F,T,F,F,F,80,182,102,packaging,MojoExecution:gwt-maven-plugin,NA
+non-sono-bello-ma-patcho/PCAD_LAB,NA,NA,NA,0,1,2018-03-14 07:58:22 UTC,2018-05-14 22:03:19 UTC,F,F,F,T,F,F,F,F,T,F,F,F,40,40,0,NA,NA,NA
+normhanson/cf633,NA,NA,NA,0,1,2019-07-08 02:23:51 UTC,2019-07-08 03:02:44 UTC,F,F,F,F,F,F,F,F,T,F,F,F,25,25,0,NA,NA,NA
+npw3202/ASL-recognition,NA,NA,NA,3,1,2016-03-19 21:29:20 UTC,2016-09-19 12:04:15 UTC,F,F,F,F,F,F,F,T,T,F,F,F,63,63,0,NA,NA,NA
+nsoft/jesterj,NA,NA,NA,24,28,2014-09-28 12:06:27 UTC,2020-07-09 17:06:19 UTC,F,F,T,F,F,F,F,F,T,F,T,F,1189,1189,0,NA,NA,NA
+numb3r33/Battlecode,NA,NA,NA,1,1,2016-05-18 19:23:14 UTC,2016-05-18 19:30:43 UTC,T,F,F,F,F,F,T,T,T,F,F,F,29,29,0,NA,NA,NA
+oaplatform/oap-ws,F,1,Maven,0,1,2019-08-05 08:46:31 UTC,2020-07-07 14:04:08 UTC,F,F,F,F,T,F,F,F,T,F,F,F,332,344,12,Java compilation,MojoExecution:maven-compiler-plugin,invalid target release: 13
+oeljeklaus-you/sohouse,T,0,Maven,4,3,2018-06-24 02:46:52 UTC,2018-06-24 02:46:59 UTC,F,F,F,F,T,F,F,F,T,F,F,F,42,63,21,NA,NA,NA
+openbase/generic-display,F,1,Maven,2,1,2015-07-21 15:55:46 UTC,2020-02-24 18:41:18 UTC,F,F,F,F,T,F,F,F,T,F,T,F,114,114,0,dependencies,DependencyResolution,NA
+pafnat/coursera-algorithms,NA,NA,NA,2,2,2015-10-28 16:45:08 UTC,2015-11-03 13:08:11 UTC,F,F,F,F,F,F,F,F,T,F,F,F,24,24,0,NA,NA,NA
+patkovskyi/tinydict,T,0,Maven,0,1,2014-10-24 03:49:49 UTC,2020-06-15 20:53:06 UTC,F,F,F,F,T,F,F,F,T,F,F,F,70,160,90,NA,NA,NA
+peter-wachira/HeroSquad-,T,0,Gradle,0,1,2019-04-15 07:22:51 UTC,2019-04-17 09:27:17 UTC,F,F,T,F,F,F,F,F,T,F,F,F,66,114,48,NA,NA,NA
+pietertolsma/Turfsysteem,T,0,Maven,0,1,2017-02-02 12:05:27 UTC,2017-08-16 18:58:18 UTC,F,F,F,F,T,F,F,F,T,F,F,F,77,193,116,NA,NA,NA
+pixelplex-dev/litecoin-params-bitcoinj,F,1,Maven,2,1,2018-01-16 07:20:23 UTC,2018-08-27 13:10:49 UTC,T,F,F,F,T,F,F,F,T,F,T,F,890,1502,612,Java compilation,MojoFailure:maven-compiler-plugin,cannot find symbol
+poqdavid/VirtualTool,F,1,Gradle,7,7,2017-02-07 10:37:40 UTC,2019-03-05 18:53:15 UTC,F,F,T,F,F,F,F,F,T,F,T,F,54,58,4,build files parsing/interpretation,NoSuchMethod,NA
+pronoym99/CGPA-Calculator,NA,NA,NA,2,1,2017-10-18 17:17:24 UTC,2020-04-17 10:30:03 UTC,T,F,F,F,F,F,F,F,T,T,F,F,57,57,0,NA,NA,NA
+protobufel/protobufel-grammar,F,1,Gradle,1,1,2017-06-30 23:01:39 UTC,2017-07-05 04:03:07 UTC,F,F,T,F,F,F,F,F,T,F,T,F,263,264,1,uncategorized,PluginApplication:jmh,NA
+qariane/Libre-Cal,NA,NA,NA,0,2,2018-03-02 11:09:38 UTC,2018-05-03 20:15:42 UTC,F,F,F,F,F,F,F,T,T,F,F,F,14,14,0,NA,NA,NA
+quantummaid/injectmaid,T,0,Maven,8,1,2020-05-26 15:40:26 UTC,2020-07-14 11:30:24 UTC,F,F,F,F,T,F,F,F,T,F,F,F,229,451,222,NA,NA,NA
+radudumbraveanu/JavaEE,NA,NA,NA,1,2,2017-02-12 14:55:21 UTC,2017-03-30 11:22:09 UTC,F,F,F,F,T,F,F,F,T,F,F,F,177,177,0,NA,NA,NA
+realtime-framework/RealtimeMessaging-Java,NA,NA,NA,3,7,2015-01-12 18:53:32 UTC,2017-10-31 19:09:15 UTC,F,F,F,F,T,F,F,F,T,F,F,F,85,85,0,NA,NA,NA
+reecemartin/photomanager,F,1,Maven,5,2,2018-02-05 21:22:35 UTC,2018-09-25 04:48:39 UTC,F,F,F,F,T,F,F,F,T,F,F,F,164,164,0,dependencies,DependencyResolution,NA
+release-engineering/pom-manipulation-ext,F,1,Maven,34,42,2014-05-15 15:46:03 UTC,2020-07-14 15:48:39 UTC,F,F,F,F,T,F,F,F,T,F,T,F,2530,2564,34,Java compilation,MojoFailure:maven-compiler-plugin,cannot find symbol
+rentalhost/laravel-insight,NA,NA,NA,25,7,2017-05-29 04:28:57 UTC,2017-12-30 22:31:17 UTC,F,F,F,F,F,F,F,F,T,F,F,F,112,112,0,NA,NA,NA
+ricardoboss/GameModeControl,F,1,Maven,1,2,2015-07-24 18:10:37 UTC,2020-04-30 07:51:54 UTC,F,F,F,F,T,F,F,F,T,F,F,F,59,113,54,uncategorized,MojoExecution:maven-shade-plugin,NA
+rjenks/Con-Badges,T,0,Maven,4,1,2013-11-12 04:23:56 UTC,2019-07-16 21:10:40 UTC,F,F,F,F,T,F,F,T,T,F,F,F,80,174,94,NA,NA,NA
+roana0229/android-xml-sorter,NA,NA,NA,99,9,2016-02-25 16:32:45 UTC,2018-07-03 14:43:50 UTC,F,F,F,F,F,F,F,F,T,F,F,F,20,20,0,NA,NA,NA
+rogowskik/ZZPJ-2016-Breathalyser,F,1,Maven,0,1,2016-05-06 07:52:10 UTC,2017-02-01 18:00:10 UTC,F,F,F,F,T,F,F,F,T,F,T,F,65,77,12,Java compilation,MojoExecution:maven-compiler-plugin,java.lang.ExceptionInInitializerError: com.sun.tools.javac.code.TypeTags
+rolandkrueger/AppBaseForVaadin,F,1,Maven,1,1,2013-05-04 15:30:19 UTC,2017-02-08 21:10:31 UTC,F,F,F,F,T,F,F,F,T,F,F,F,72,74,2,Java compilation,MojoFailure:maven-compiler-plugin,unmappable character (0xC3) for encoding US-ASCII
+rpau/git-commit-classifier,F,1,Maven,4,3,2017-04-16 09:33:19 UTC,2017-11-26 22:11:47 UTC,F,F,F,F,T,F,F,F,T,F,F,F,56,213,157,documentation generation,MojoExecution:maven-javadoc-plugin,NA
+rtan17/FullyConnected-Neural-Network,NA,NA,NA,0,1,2018-02-12 11:53:23 UTC,2018-02-12 12:01:54 UTC,F,F,F,F,F,F,F,F,T,F,F,F,19,19,0,NA,NA,NA
+sahb1239/PLC-,NA,NA,NA,0,1,2015-03-15 14:12:48 UTC,2015-10-05 12:33:30 UTC,F,F,F,F,F,F,F,F,T,F,F,F,145,145,0,NA,NA,NA
+sajus/zindabad,NA,NA,NA,0,1,2016-05-12 13:04:47 UTC,2016-08-18 07:01:20 UTC,F,F,F,F,T,F,F,T,T,F,F,F,318,318,0,NA,NA,NA
+sandokandias/spring-boot-ddd,F,1,Gradle,24,22,2017-06-30 02:13:15 UTC,2017-07-22 14:51:34 UTC,F,F,T,F,F,F,F,F,T,F,F,F,117,118,1,file not found,MissingResource,NA
+sanfo3855/FoolOO,NA,NA,NA,2,1,2018-06-13 15:43:33 UTC,2018-07-10 09:02:21 UTC,F,F,F,F,F,F,F,F,T,F,F,F,100,100,0,NA,NA,NA
+satr/intellij-idea-plugin-connector-for-aws-lambda,NA,NA,NA,14,5,2017-07-31 19:42:25 UTC,2018-10-10 04:21:37 UTC,F,F,F,F,F,F,F,F,T,F,F,F,132,132,0,NA,NA,NA
+scm-manager/scm-manager,T,0,Maven,29,3,2020-03-09 06:57:28 UTC,2020-07-21 12:38:18 UTC,F,F,F,T,T,F,F,F,T,F,F,T,3589,112372,108783,NA,NA,NA
+seanballais/huffman-image-compression,F,1,Gradle,0,1,2017-04-17 13:01:01 UTC,2017-05-07 03:12:31 UTC,F,F,T,F,F,F,F,T,T,F,F,F,44,60,16,Java compilation,CompilationFailed,package com.intellij.uiDesigner.core does not exist
+sergej-kucharev/DT-71,NA,NA,NA,0,25,2019-11-27 11:52:14 UTC,2019-12-21 15:17:08 UTC,F,F,F,F,F,F,F,T,T,F,F,F,771,771,0,NA,NA,NA
+serverwentdown/Undefined,NA,NA,NA,0,1,2015-10-07 14:47:59 UTC,2015-10-15 18:11:24 UTC,F,F,F,F,F,F,F,F,T,F,F,F,61,61,0,NA,NA,NA
+shadskii/ReactorFX,F,1,Gradle,16,5,2017-10-26 05:03:54 UTC,2019-09-10 19:44:32 UTC,F,F,T,F,F,F,F,F,T,F,T,F,44,45,1,build files parsing/interpretation,GroovyRuntime,NA
+shaikin1/java_pft,NA,NA,NA,0,1,2018-01-17 18:25:07 UTC,2019-04-16 14:57:58 UTC,F,F,T,F,F,F,F,F,T,F,F,F,529,529,0,NA,NA,NA
+shiehn/TrebleMaker,NA,NA,NA,12,2,2018-05-31 01:07:55 UTC,2019-02-08 07:18:10 UTC,F,F,F,F,T,F,F,F,T,F,F,F,1061,1061,0,NA,NA,NA
+songxin1990/dubbo-dynamic-impl,F,1,Maven,2,2,2018-06-12 10:34:00 UTC,2019-04-24 08:35:15 UTC,F,F,F,F,T,F,F,F,T,F,F,F,34,34,0,dependencies,DependencyResolution,NA
+soulblade249/XCoin,T,0,Ant,0,1,2018-02-27 17:28:18 UTC,2018-06-15 14:49:11 UTC,T,F,F,F,F,F,F,T,T,T,F,F,99,144,45,NA,NA,NA
+spacerovka/jShop,F,1,Maven,1,2,2016-10-25 07:48:09 UTC,2017-09-01 14:32:20 UTC,F,F,F,F,T,F,F,T,T,F,F,F,456,459,19,Java compilation,MojoFailure:maven-compiler-plugin,unmappable character (0xE2) for encoding US-ASCII
+spectrumauctions/sats,F,1,Maven,4,5,2017-04-25 07:54:04 UTC,2020-07-19 18:13:57 UTC,F,F,F,F,T,F,F,F,T,F,F,F,1395,1395,0,dependencies,DependencyResolution,NA
+spine-examples/todo-list,F,1,Gradle,3,2,2016-12-06 17:17:33 UTC,2020-07-18 01:11:54 UTC,F,F,T,F,F,F,F,F,T,F,T,F,698,699,1,dependencies,ArtifactResolve,NA
+spinnaker/echo,T,0,Gradle,52,525,2014-06-23 22:59:57 UTC,2020-07-17 18:00:17 UTC,F,F,T,F,F,F,F,F,T,F,F,F,749,1972,1223,NA,NA,NA
+splunk/splunk-library-javalogging,T,0,Maven,101,122,2012-02-06 22:34:13 UTC,2020-07-01 17:56:30 UTC,F,F,F,F,T,F,F,F,T,F,T,F,56,288,232,NA,NA,NA
+spring-io/start.spring.io,F,1,Maven,748,350,2018-11-07 08:32:23 UTC,2020-07-18 00:11:37 UTC,F,F,F,T,T,F,F,F,T,F,F,T,393,34550,34157,other build tool integration,MojoFailure:frontend-maven-plugin,NA
+spyboost/atmosphere-chat-angular,F,1,Maven,18,9,2013-10-19 03:58:06 UTC,2016-03-18 12:04:27 UTC,F,F,F,F,T,F,F,F,T,F,F,F,26,26,0,dependencies,DependencyResolution,NA
+stanjg/Ptero4J,T,0,Maven,23,11,2018-03-06 11:29:39 UTC,2019-11-01 01:02:19 UTC,F,F,F,F,T,F,F,F,T,F,F,F,75,153,78,NA,NA,NA
+stormpath/samza-single-partition-kafka-checkpoint-manager,T,0,Maven,0,1,2016-05-03 00:52:33 UTC,2017-03-06 19:32:15 UTC,F,F,F,F,T,F,F,F,T,F,F,F,33,86,53,NA,NA,NA
+stylismo/nullability-annotations-inspection,F,1,Gradle,12,2,2017-01-19 23:49:06 UTC,2017-12-14 12:04:37 UTC,F,F,T,F,F,F,F,F,T,F,T,F,53,54,1,build files parsing/interpretation,ListenerNotification,NA
+superfroggman/superfroggman,NA,NA,NA,0,1,2019-09-02 10:19:09 UTC,2020-05-11 10:24:37 UTC,F,F,F,F,F,F,F,T,T,F,F,F,126,126,0,NA,NA,NA
+suraj-goel/Secure-Quiz,NA,NA,NA,0,3,2018-09-29 10:34:25 UTC,2019-10-01 13:51:56 UTC,F,F,F,F,F,F,F,F,T,F,F,F,423,423,0,NA,NA,NA
+svstoll/cscc-recommender,T,0,Maven,1,2,2019-03-28 20:21:06 UTC,2019-05-31 22:59:25 UTC,F,F,F,F,T,F,F,F,T,F,T,F,71,154,83,NA,NA,NA
+swdotcom/swdc-intellij-music-time,NA,NA,NA,5,1,2019-11-28 06:20:43 UTC,2020-06-20 00:08:25 UTC,F,F,F,F,F,F,F,T,T,F,F,F,199,199,0,NA,NA,NA
+syllant/idea-plugin-linessorter,NA,NA,NA,63,17,2011-09-24 05:17:23 UTC,2018-05-31 19:29:45 UTC,F,F,F,F,F,F,F,F,T,F,F,F,16,16,0,NA,NA,NA
+tecsinapse/tecsinapse-data-sync,F,1,Maven,4,3,2016-11-03 16:31:11 UTC,2016-12-09 17:05:09 UTC,F,F,F,F,T,F,F,F,T,F,F,F,69,69,0,dependencies,UnresolvableModel,NA
+tehcpu/tiny-AES,NA,NA,NA,6,6,2017-11-12 19:42:04 UTC,2018-09-21 09:24:15 UTC,F,F,F,F,F,F,F,F,T,F,F,F,11,11,0,NA,NA,NA
+termMed/rf2-to-owl,T,0,Maven,7,4,2016-04-06 16:16:53 UTC,2017-10-18 12:42:53 UTC,F,F,F,F,T,F,F,F,T,F,F,F,27,53,26,NA,NA,NA
+tguzik/valueclasses,T,0,Maven,6,2,2014-04-16 19:13:03 UTC,2020-07-20 06:07:21 UTC,F,F,F,F,T,F,F,F,T,F,T,F,57,124,67,NA,NA,NA
+theapache64/movie_db,NA,NA,NA,32,7,2017-07-01 19:23:59 UTC,2020-04-19 18:51:29 UTC,F,F,F,F,F,F,F,F,T,F,F,F,37,37,0,NA,NA,NA
+theosotr/async-tajs,F,1,Ant,2,1,2018-12-13 11:40:36 UTC,2020-02-18 17:19:31 UTC,T,F,F,F,F,F,F,T,T,F,F,T,6681,6682,1,Java compilation,Target:compile,package dk.au.cs.casa.jer does not exist
+thibautbessone/DiscordBlueBot,F,1,Maven,24,14,2017-01-11 01:57:41 UTC,2020-05-23 12:12:49 UTC,F,F,F,F,T,F,F,F,T,F,F,F,103,103,0,dependencies,DependencyResolution,NA
+thieraufc/group-projects,NA,NA,NA,0,1,2017-09-19 18:43:50 UTC,2017-10-10 03:19:48 UTC,F,F,F,F,F,F,F,T,T,F,F,F,38,38,0,NA,NA,NA
+thieveskiller/HTTPServiceAttacker-Java,T,0,Maven,4,3,2019-08-14 12:10:53 UTC,2020-07-18 03:27:47 UTC,F,F,F,F,T,F,F,F,T,F,F,F,48,100,52,NA,NA,NA
+threefish/sqltoy-idea-plugins,NA,NA,NA,2,1,2020-05-15 16:51:36 UTC,2020-05-15 16:52:23 UTC,F,F,F,F,F,F,F,F,T,F,F,F,29,29,0,NA,NA,NA
+tillind/pandemie,F,1,Gradle,0,2,2017-03-12 20:23:51 UTC,2017-05-15 14:24:15 UTC,F,F,T,F,F,F,F,F,T,T,F,F,585,585,0,build files parsing/interpretation,PluginApplication:sonarqube,NA
+timmutton/redex-plugin,F,1,Gradle,92,6,2016-04-26 12:06:09 UTC,2017-11-06 23:05:44 UTC,F,F,T,F,F,F,F,F,T,F,F,F,44,49,5,build files parsing/interpretation,NoSuchMethod,NA
+tomaszweglinski/WaniKaniAutoWallpaper,NA,NA,NA,7,1,2016-11-26 23:22:52 UTC,2019-01-20 16:53:49 UTC,F,F,F,F,F,F,F,F,T,F,F,F,37,37,0,NA,NA,NA
+topicateam/cicd,T,0,Maven,0,1,2019-05-10 09:16:40 UTC,2019-05-10 09:32:20 UTC,F,F,F,F,T,F,F,F,T,F,F,F,18,44,26,NA,NA,NA
+trevorhreed/timeoff,T,0,Maven,0,1,2014-11-04 04:03:23 UTC,2014-11-06 05:15:04 UTC,F,F,F,F,T,F,F,F,T,F,F,F,107,120,13,NA,NA,NA
+tryandcatch/Tomcat7.0.67,F,1,Maven,14,13,2017-10-13 09:52:22 UTC,2018-07-16 09:06:50 UTC,T,F,F,F,T,F,F,F,T,F,F,F,2898,4646,1748,Java compilation,MojoFailure:maven-compiler-plugin,package javax.xml.bind does not exist
+ttothuk/group1_cw,T,0,Maven,1,1,2020-01-27 21:46:11 UTC,2020-02-07 23:31:59 UTC,F,F,F,F,T,F,F,F,T,F,T,F,35,38,3,NA,NA,NA
+tuanna-hsp/stardict-to-sqlite,NA,NA,NA,6,3,2016-01-06 12:45:37 UTC,2016-12-02 07:44:22 UTC,F,F,F,F,F,F,F,F,T,F,F,F,22,22,0,NA,NA,NA
+turingkomplete/GraphBasedMinimalistCircuitSimulator,NA,NA,NA,2,1,2020-06-08 00:44:33 UTC,2020-07-21 11:55:01 UTC,F,F,F,F,F,F,F,F,T,F,F,F,39,39,0,NA,NA,NA
+twak/campskeleton,T,0,Maven,50,17,2015-04-18 11:25:47 UTC,2020-05-14 13:42:43 UTC,F,F,F,F,T,F,F,F,T,F,F,F,66,214,148,NA,NA,NA
+twak/siteplan,T,0,Maven,16,6,2015-04-17 18:48:21 UTC,2020-07-09 13:39:16 UTC,F,F,F,F,T,F,F,F,T,F,F,F,166,548,382,NA,NA,NA
+txs72/BUPTJava,NA,NA,NA,19,25,2015-11-20 15:10:33 UTC,2018-12-23 15:01:08 UTC,F,F,F,F,T,F,F,F,T,F,F,F,391,391,0,NA,NA,NA
+uchenm/learning-akka-java,F,1,Maven,1,1,2016-06-14 02:14:06 UTC,2016-06-14 02:15:11 UTC,F,F,F,F,T,F,F,F,T,F,F,F,149,149,0,dependencies,DependencyResolution,NA
+uk0/rocketmq-flink-plugin,F,1,Maven,7,2,2017-07-20 19:32:30 UTC,2017-11-30 06:56:15 UTC,F,F,F,F,T,F,F,F,T,F,F,F,39,39,0,dependencies,DependencyResolution,NA
+ukc-co663/dependency-solver-2019-akmalibrahim1,NA,NA,NA,0,1,2019-01-21 20:11:25 UTC,2019-03-15 20:53:00 UTC,F,F,F,T,F,F,F,F,T,F,F,F,23,23,0,NA,NA,NA
+upDiogoSaraiva/terminalGuessWho,NA,NA,NA,1,2,2018-03-12 11:42:39 UTC,2018-03-26 21:24:59 UTC,F,F,F,F,F,F,F,F,T,F,F,F,21,21,0,NA,NA,NA
+utPLSQL/utPLSQL-java-api,NA,NA,NA,4,4,2017-03-28 13:52:15 UTC,2020-06-14 15:39:22 UTC,F,F,F,F,F,F,F,F,T,F,T,F,103,103,0,NA,NA,NA
+vapour101/Suji,F,1,Gradle,3,1,2017-08-02 13:26:51 UTC,2017-10-29 13:46:02 UTC,F,F,T,F,F,F,F,F,T,F,T,F,181,182,1,uncategorized,PluginApplication:cobertura,NA
+vdenisov/mysql-connection-validator,T,0,Maven,0,1,2013-09-06 22:31:01 UTC,2013-09-06 22:36:29 UTC,F,F,F,F,T,F,F,F,T,F,F,F,14,26,12,NA,NA,NA
+vergec/NDTcompany,NA,NA,NA,0,1,2018-05-29 01:51:28 UTC,2018-06-19 05:47:20 UTC,F,F,F,F,F,F,F,F,T,F,F,F,151,151,0,NA,NA,NA
+vermut/intellij-snakeyaml,NA,NA,NA,17,5,2016-01-04 13:21:02 UTC,2016-12-08 22:29:03 UTC,F,F,F,F,F,F,F,F,T,F,F,F,189,189,0,NA,NA,NA
+versionone/VersionOne.SDK.Java.ObjectModel,F,1,Maven,0,3,2012-11-27 16:04:12 UTC,2015-04-27 14:35:30 UTC,F,F,F,F,T,F,F,T,T,F,F,F,321,321,0,dependencies,DependencyResolution,NA
+victorrentea/jpa,F,1,Maven,2,2,2019-08-22 22:44:44 UTC,2020-02-27 10:11:51 UTC,F,F,F,F,T,F,F,T,T,F,F,F,160,333,173,uncategorized,PluginExecution:spring-boot-maven-plugin,NA
+vidstige/jadb,T,0,Maven,346,116,2013-07-25 18:45:02 UTC,2020-01-20 08:20:04 UTC,F,F,F,F,T,F,F,F,T,F,T,F,75,165,90,NA,NA,NA
+visualDust/CodeToMD,NA,NA,NA,1,1,2018-09-18 15:02:53 UTC,2019-09-20 11:39:19 UTC,F,F,F,F,F,F,F,F,T,F,F,F,87,87,0,NA,NA,NA
+vsirotin/Smartenesse-Java,T,0,Maven,1,2,2017-05-01 11:41:57 UTC,2017-12-09 17:48:16 UTC,F,F,F,F,T,F,F,F,T,F,F,F,86,185,99,NA,NA,NA
+wanghongqi/springcloudconsul_test,NA,NA,NA,1,6,2018-10-16 09:17:04 UTC,2019-05-10 02:01:57 UTC,F,F,F,F,T,F,F,F,T,F,F,F,93,93,0,NA,NA,NA
+wangyangjun/StreamBench,NA,NA,NA,15,9,2015-09-23 11:51:39 UTC,2017-11-09 12:30:37 UTC,T,F,F,T,T,F,T,F,T,F,F,F,2291,2291,0,NA,NA,NA
+westlinkin/AndroidLocalizationer,NA,NA,NA,783,134,2014-11-29 07:31:05 UTC,2016-04-21 02:21:58 UTC,F,F,F,F,F,F,F,F,T,F,F,F,45,45,0,NA,NA,NA
+whvcse/EasyCaptcha,T,0,Maven,728,185,2018-02-11 06:46:58 UTC,2020-04-29 02:32:53 UTC,F,F,F,F,T,F,F,F,T,F,F,F,46,100,54,NA,NA,NA
+wrlu/ISAssistant-Java-Desktop,T,0,Maven,2,1,2017-06-05 12:56:27 UTC,2018-04-18 12:29:30 UTC,F,F,F,F,T,F,F,T,T,F,F,F,36,85,49,NA,NA,NA
+wso2/labs,NA,NA,NA,1,12,2020-04-29 07:12:10 UTC,2020-07-09 16:44:06 UTC,F,F,F,F,T,F,F,T,T,F,F,F,602,602,0,NA,NA,NA
+xiaoqizh/agile_dev,NA,NA,NA,1,2,2020-02-18 07:28:20 UTC,2020-07-02 02:17:37 UTC,F,F,F,F,T,F,F,F,T,F,F,F,524,524,0,NA,NA,NA
+xmliu/app-service-demo,F,1,Maven,9,3,2019-08-01 05:01:43 UTC,2019-08-01 14:00:45 UTC,F,F,F,F,T,F,F,F,T,F,F,F,32,45,13,Java compilation,MojoFailure:maven-compiler-plugin,unmappable character (0xE8) for encoding US-ASCII
+xphsc/EasyJdbc,F,1,Maven,22,2,2018-06-23 08:07:01 UTC,2020-04-14 07:18:28 UTC,F,F,F,F,T,F,F,F,T,F,F,F,152,163,11,Java compilation,MojoFailure:maven-compiler-plugin,An unknown compilation problem occurred
+xujiaji/MVPManager,NA,NA,NA,50,10,2016-12-05 08:40:48 UTC,2017-12-17 15:14:23 UTC,F,F,F,F,F,F,F,F,T,F,F,F,47,47,0,NA,NA,NA
+xuyuhanGithub/UserBehavior,T,0,Maven,4,3,2019-10-03 13:30:06 UTC,2019-10-03 13:34:27 UTC,F,F,F,F,T,F,F,F,T,F,F,F,77,118,41,NA,NA,NA
+xwjie/ElementVueSpringbootCodeTemplate,NA,NA,NA,572,202,2017-09-20 13:06:45 UTC,2019-01-13 01:53:22 UTC,F,F,F,F,T,F,F,F,T,F,F,F,267,267,0,NA,NA,NA
+yamingd/argo,F,1,Gradle,11,8,2013-12-17 10:02:33 UTC,2016-03-09 22:55:34 UTC,F,F,T,T,F,F,F,F,T,F,F,F,1497,1498,1,build files parsing/interpretation,MissingProperty,NA
+yanghongkjxy/cloud-native-java,NA,NA,NA,0,2,2017-09-01 09:32:25 UTC,2016-10-15 13:29:00 UTC,F,F,F,F,T,F,F,F,T,F,F,F,362,362,0,NA,NA,NA
+youkaichao/minidb,T,0,Maven,6,3,2019-04-28 14:07:58 UTC,2019-07-13 23:32:51 UTC,F,F,F,F,T,F,F,F,T,F,F,F,61,65,4,NA,NA,NA
+youzhidakeai/concurrency,T,0,Maven,2,2,2018-10-26 15:42:47 UTC,2018-11-17 11:50:20 UTC,F,F,F,F,T,F,F,F,T,F,F,F,114,408,294,NA,NA,NA
+ytachi0026/PyC-2019-i-Grupo01,NA,NA,NA,0,1,2019-05-04 04:31:29 UTC,2019-05-14 06:10:17 UTC,F,F,F,F,F,F,F,F,T,F,F,F,21,21,0,NA,NA,NA
+yuanwhy/job-robot,T,0,Maven,5,4,2018-10-08 14:21:21 UTC,2018-10-29 15:07:00 UTC,F,F,F,F,T,F,F,F,T,F,F,F,40,70,30,NA,NA,NA
+zerokid/mastercard-api-java,F,1,Maven,1,27,2015-03-27 10:06:59 UTC,2015-03-25 07:58:22 UTC,F,F,F,F,T,F,F,T,T,F,F,F,726,734,8,Java compilation,MojoFailure:maven-compiler-plugin,Source option 5 is no longer supported. Use 6 or later.
+zhanghuihb/webmagic,F,1,Maven,0,1,2018-06-07 08:56:21 UTC,2018-09-12 11:18:19 UTC,F,F,F,F,T,F,F,F,T,F,F,F,449,460,11,Java compilation,MojoFailure:maven-compiler-plugin,package us.codecraft.webmagic.burton.processor.?????????? does not exist
+zhao154811/mybatis-codegen,NA,NA,NA,0,1,2015-12-02 03:39:44 UTC,2017-01-01 11:35:37 UTC,F,F,F,F,F,F,F,F,T,F,F,F,88,88,0,NA,NA,NA
+zhfish/tio-websocket-spring-boot-starter,F,1,Maven,4,1,2018-11-05 10:09:56 UTC,2018-11-16 10:43:40 UTC,F,F,F,F,T,F,F,F,T,F,F,F,52,232,180,documentation generation,MojoExecution:maven-javadoc-plugin,NA
+zhiqing-lee/thepiratebayapi,F,1,Gradle,1,1,2017-06-14 11:16:27 UTC,2017-06-14 12:33:14 UTC,F,F,T,F,F,F,F,F,T,F,F,F,36,70,34,build files parsing/interpretation,NoSuchMethod,NA
+zhoubiao188/spring_cloud_study,NA,NA,NA,23,26,2019-07-25 03:01:50 UTC,2019-10-07 13:36:59 UTC,F,F,F,F,T,F,F,F,T,F,F,F,1145,1145,0,NA,NA,NA
+zq2599/pinpoint163-plugin-develop,F,1,Maven,0,1,2017-11-14 16:35:30 UTC,2017-11-14 17:08:38 UTC,F,F,F,T,T,F,F,F,T,F,F,F,7399,7399,0,dependencies,PluginResolution,NA
+zwxbest/VmToFtl,NA,NA,NA,3,4,2018-01-14 12:35:12 UTC,2018-01-16 10:38:24 UTC,F,F,F,F,F,F,F,F,T,F,F,F,12,12,0,NA,NA,NA
+zzarbttoo/Luxury_JAVA,NA,NA,NA,1,1,2020-01-06 02:34:47 UTC,2020-07-06 00:00:15 UTC,F,F,F,F,F,F,F,T,T,F,F,F,103,103,0,NA,NA,NA
